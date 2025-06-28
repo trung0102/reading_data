@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Decode & Hiển thị HTML hoặc Mã nguồn</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 900px; margin: auto; }
+    textarea { width: 100%; height: 200px; margin-bottom: 10px; font-family: monospace; }
+    button { padding: 10px 20px; font-size: 16px; margin-right: 10px; cursor: pointer; }
+    #rendered, #sourceCode { margin-top: 20px; padding: 15px; border: 1px solid #ccc; background: #fdfdfd; }
+    #sourceCode { white-space: pre-wrap; font-family: monospace; display: none; }
+    #rendered { display: none; }
+  </style>
+</head>
+<body>
+
+  <h2>🧩 Decode Unicode + HTML Entity</h2>
+  <p>Dán chuỗi bị encode vào đây:</p>
+
+  <textarea id="input" placeholder="Dán dữ liệu dạng \u003Cdiv... &agrave;"></textarea>
+  <br>
+  <button onclick="decodeAndShow('render')">✨ Decode & Render</button>
+  <button onclick="decodeAndShow('source')">🔍 Decode & Xem Mã nguồn</button>
+
+  <div id="rendered"></div>
+  <pre id="sourceCode"></pre>
+
+  <script>
+    function decodeAndShow(mode) {
+      const rawInput = document.getElementById('input').value;
+      let decoded;
+
+      // Bước 1: Decode Unicode escape
+      try {
+        decoded = JSON.parse(`"${rawInput}"`);
+      } catch (e) {
+        alert("⚠️ Không thể giải mã Unicode escape.");
+        return;
+      }
+
+      // Bước 2: Decode HTML entities
+      const textarea = document.createElement('textarea');
+      textarea.innerHTML = decoded;
+      const finalHTML = textarea.value;
+
+      // Reset hiển thị
+      document.getElementById('rendered').style.display = 'none';
+      document.getElementById('sourceCode').style.display = 'none';
+
+      // Hiển thị kết quả
+      if (mode === 'render') {
+        document.getElementById('rendered').innerHTML = finalHTML;
+        document.getElementById('rendered').style.display = 'block';
+      } else {
+        document.getElementById('sourceCode').textContent = finalHTML;
+        document.getElementById('sourceCode').style.display = 'block';
+      }
+    }
+  </script>
+
+</body>
+</html>
