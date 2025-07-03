@@ -35,16 +35,28 @@ def InsTFtoJson(data:str):
 
     # Description
     desc_paras = []
+    # Key descriptions
+    desc_key = {}
     for p in soup.find_all('p'):
         text = p.get_text(strip=True).strip()
         if text and any(keyword in text.upper() for keyword in ["TRUE", "FALSE", "YES", "NO", "NOT GIVEN"]):
             break  
+        if p.find_parent("table"):
+            az_pattern = re.compile(r"^[A-Z]+$")
+
+            for strong_tag in p.find_all('strong'):
+                key_text = strong_tag.get_text(strip=True)
+                if az_pattern.match(key_text):
+                    value = ""
+                    if strong_tag.next_sibling:
+                        value = strong_tag.next_sibling.strip()
+
+                    desc_key[key_text] = value
+            continue
         desc_paras.append(p)
     
-    descriptions = [p.decode_contents() for p in desc_paras if p]
+    descriptions = ["<p>" + p.decode_contents()+ "</p>" for p in desc_paras if p]
 
-    # Key descriptions
-    desc_key = {}
     for p in soup.find_all('p'):
         text = p.get_text(" ", strip=True)
         if 'TRUE' in text:
@@ -60,15 +72,15 @@ def InsTFtoJson(data:str):
 
     return {
         "title": title,
-        "description": "\n".join(descriptions),
+        "description": "".join(descriptions),
         "descriptionKey": desc_key
     }
 
-with open("real_data/explain.txt", encoding="utf-8") as f:
-    explain = f.read()
+# with open("real_data/explain.txt", encoding="utf-8") as f:
+#     explain = f.read()
 
-with open("real_data/gapfillinblank.txt", encoding="utf-8") as f:
-    gap_fill_in_blank = f.read()
+# with open("real_data/gapfillinblank.txt", encoding="utf-8") as f:
+#     gap_fill_in_blank = f.read()
     
 # jsonstr = GapfilltoJson(gap_fill_in_blank,explain)
 # print(json.dumps(jsonstr, ensure_ascii=False, indent=2))

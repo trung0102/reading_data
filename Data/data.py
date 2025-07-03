@@ -11,11 +11,12 @@ def QuesFilter(questions:list, startques=1):
     listyp = []
     QuestionFiltered = None
     for question in questions:
+        print(startques)
         if question.get("description"): #question đại diện lưu mô tả
             if QuestionFiltered:
                 ret.append(QuestionFiltered)
             listyp.append(question.get("question_type"))
-            if question.get("gap_fill_in_blank"):
+            if question.get("question_type") == "FILL_BLANK":
                 is_gap_fill = True
                 instruction = {
                     "title": question.get("description"),
@@ -32,7 +33,9 @@ def QuesFilter(questions:list, startques=1):
                 "content": content if is_gap_fill else None,
                 "questions":listques if is_gap_fill else []
             }
-            if is_gap_fill: continue
+            if is_gap_fill: 
+                startques = int(listques[-1].get("id")) + 1
+                continue
         
         ques ={
             "id": str(startques),
@@ -83,10 +86,10 @@ with open("real_data/output.txt", "w", encoding="utf-8") as f:
 
 
 #xử lí ảnh và gửi request vào api
-# img_url = "https://cms.youpass.vn/assets/" + keyurl
+img_url = "https://cms.youpass.vn/assets/" + keyurl
     
 # api_url = "http://127.0.0.1:8000/api/admin-reading/reading-tests/"
-# files = spimage.XuliImg(img_url)
+files = spimage.XuliImg(img_url)
 # files["data"] = (None, json.dumps(data), "application/json")
 
 # print(files)
