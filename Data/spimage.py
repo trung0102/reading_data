@@ -47,20 +47,12 @@ def XuliImg(img_url):
     cropped.save(img_path)
     driver.quit()
 
-    # upload_dir = "uploads"
-    # if not os.path.exists(upload_dir):
-    #     os.makedirs(upload_dir)  # Tạo thư mục uploads nếu chưa tồn tại
-    # content_type = response.headers.get('Content-Type', 'image/png')
-    # extension = guess_extension(content_type) or '.png'
-    # image_filename = os.path.join(upload_dir, f"downloaded_image{extension}")
-    # with open(image_filename, "wb") as f:
-    #     f.write(response.content)
-    # print(f"Ảnh đã được lưu tại: {os.path.abspath(image_filename)}")
-
-    # files = {
-    #     "image": ("image.png", io.BytesIO(image_data), "image/png")
-    # }
-    # return files
+    img_path = "uploads/cropped_image.png"
+    f = open(img_path, "rb")
+    files = {
+        "image": ("cropped_image.png", f, "image/png")
+    }
+    return files
 
 # url = "https://cms.youpass.vn/assets/" + "fa84ef8b-9264-49c9-a661-2e91edfd12da"
 # img = XuliImg(url)
