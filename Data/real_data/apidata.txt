@@ -2,37 +2,37 @@
   "code": 0,
   "message": "",
   "data": {
-    "id": 615,
+    "id": 663,
     "type": 1,
     "mode": 0,
-    "title": "[C18T3] - Materials to take us beyond concrete",
+    "title": "[C17T2] - A second attempt at domesticating the tomato",
     "status": "published",
     "sort": null,
     "time": 120,
     "is_test": true,
     "simplified_id": null,
     "limit_submit": null,
-    "thumbnail": "20a7ddac-dd76-486d-ba50-fca2853b07ef",
+    "thumbnail": "7f827c2f-713d-46ca-b353-f98cdcaab282",
     "quiz_code": "",
-    "description": "Cambridge IELTS 18 Test 3",
+    "description": "Cambridge IELTS 17 Test 2",
     "content": null,
     "parts": [
       {
-        "id": 795,
-        "quiz_id": 615,
-        "passage": 1,
-        "title": "Section 1",
+        "id": 813,
+        "quiz_id": 663,
+        "passage": 2,
+        "title": "Section 2",
         "sort": 1,
         "time": null,
-        "content": "\u003Cp style=\"text-align: center;\"\u003E\u003Cem\u003EConcrete is everywhere, but it&rsquo;s bad for the planet, generating large amounts of carbon dioxide &ndash; alternatives are being developed\u003C/em\u003E\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EA.\u003C/strong\u003E&nbsp; Concrete is the second most used substance in the global economy, after water &ndash; and one of the world&rsquo;s biggest single sources of greenhouse gas emissions. The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide. The UN estimates that there will be 9.8 billion people living on the planet by mid-century. They will need somewhere to live. If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming. And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years.\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EB.&nbsp;\u003C/strong\u003E The problem with replacing concrete is that it is so very good at what it does. {[Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used. &lsquo;Concrete is not a high-carbon product. Cement is high carbon, but concrete is not. But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.&rsquo;][13]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EC.\u003C/strong\u003E {[Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe, the stuff itself has marvellous properties:][3]}Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard. Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own. {[According to Cheeseman, all these factors together make concrete hard to beat. &lsquo;Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.&rsquo;][10]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003ED.\u003C/strong\u003E&nbsp; A possible alternative to concrete is wood. {[Making buildings from wood may seem like a rather medieval idea, but climate change is driving architects to turn to treated timber as a possible resource.][5]}{[Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings.][2]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EE.\u003C/strong\u003E&nbsp; Using wood to construct buildings, however, is not straightforward. {[Wood expands as it absorbs moisture from the air and is susceptible to pests, not to mention fire.][6]}But treating wood and combining it with other materials can improve its properties. Cross-laminated timber is engineered wood. {[An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks.][7]}This material is light but has the strength of concrete and steel. {[Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel and the process, it seems, is quieter.][8]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EF.\u003C/strong\u003E&nbsp; {[Stora Enso is Europe&rsquo;s biggest supplier of cross-laminated timber, and its vice-president Markus Mannstrom reports that the company is seeing increasing demand globally for building in wood, with climate change concerns the key driver.][11]}Finland, with its large forests, where Stora Enso is based, has been leading the way, but the company is seeing a rise in demand for its timber products across the world, including in Asia. Of course, using timber in a building also locks away the carbon that it absorbed as it grew. {[But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.][4]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EG.\u003C/strong\u003E&nbsp; {[Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix. Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix. Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way. Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions.][1]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[But Anna Surgenor, of the UK&rsquo;s Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward. &lsquo;It&rsquo;s possible to replace the cement content in concrete with waste products to lower the overall carbon impact. But there are several calculations that need to be considered across the entire life cycle of the building - these include factoring in where these materials are being shipped from. If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.&rsquo;][9]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EH.\u003C/strong\u003E&nbsp; While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant. {[In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK&rsquo;s Royal Institute of International Affairs reached the conclusion that, &lsquo;Some novel cements have been discussed for more than a decade within the research community, without breaking through. At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.&rsquo;][12]}\u003C/p\u003E",
-        "simplified_content": "\u003Cdiv data-page-id=\"Bcqmd0lqRoXq8dxF7PGlRRCogFh\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TvHLdJLJuoxB7yxCXwJlcwnYg2c\"\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Cem\u003E\u003Cstrong\u003ENội dung cả b&agrave;i: \u003C/strong\u003E\u003C/em\u003E\u003Cem\u003EB&agrave;i đọc n&agrave;y n&oacute;i về b&ecirc; t&ocirc;ng (\u003C/em\u003E\u003Cem\u003E\u003Cstrong\u003Econcrete\u003C/strong\u003E\u003C/em\u003E\u003Cem\u003E), đ&acirc;y l&agrave; loại vật liệu được sử dụng cực k&igrave; phổ biến trong x&acirc;y dựng. N&oacute; l&agrave; substance được d&ugrave;ng phổ biến thứ nh&igrave; tr&ecirc;n Tr&aacute;i đất, chỉ đứng sau...nước. Do n&oacute; rẻ, bền, dễ sản xuất, n&ecirc;n được y&ecirc;u th&iacute;ch, d&ugrave; n&oacute; tạo ra rất nhiều kh&iacute; thải carbon (\u003C/em\u003E\u003Cem\u003E\u003Cstrong\u003Ecarbon emissions\u003C/strong\u003E\u003C/em\u003E\u003Cem\u003E), g&acirc;y hại cho m&ocirc;i trường. Do đ&oacute;, c&aacute;c nh&agrave; khoa đọc đang cố đưa ra nhiều giải ph&aacute;p thay thế (\u003C/em\u003E\u003Cem\u003E\u003Cstrong\u003Ealternatives\u003C/strong\u003E\u003C/em\u003E\u003Cem\u003E) cho concrete, nhưng vẫn chưa t&igrave;m ra đ&aacute;p &aacute;n sau c&ugrave;ng. \u003C/em\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IZCPdjKvCoS6aTxT9oulkkmAghd\"\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Cem\u003E\u003Cstrong\u003EYouPass explanation\u003C/strong\u003E\u003C/em\u003E\u003Cem\u003E: B&ecirc; t&ocirc;ng được tạo ra bằng c&aacute;ch trộn xi măng (cement), đ&aacute; nhỏ (small stones), c&aacute;t v&agrave; nước. B&ecirc; t&ocirc;ng kh&ocirc;ng eco-friendly l&agrave; v&igrave; qu&aacute; tr&igrave;nh l&agrave;m cement thải ra rất nhiều kh&iacute; CO2. \u003C/em\u003E\u003C/li\u003E\n\u003C/ul\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
+        "content": "\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EA. \u003C/strong\u003E{[It took at least 3,000 years for humans to learn how to domesticate the wild tomato and cultivate it for food. Now two separate teams in Brazil and China have done it all over again in less than three years. And they have done it better in some ways, as the re-domesticated tomatoes are more nutritious than the ones we eat at present.][4]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003EThis approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered. The technique could not only improve existing crops, but could also be used to turn thousands of wild plants into useful and appealing foods. In fact, a third team in the US has already begun to do this with a relative of the tomato called the groundcherry.\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003EThis fast-track domestication could help make the world&rsquo;s food supply healthier and far more resistant to diseases, such as the rust fungus devastating wheat crops.\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[&lsquo;This could transform what we eat,&rsquo; says Jorg Kudla at the University of Munster in Germany, a member of the Brazilian team. &lsquo;There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.&rsquo;][10]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E&lsquo;We can now mimic the known domestication course of major crops like rice, maize, sorghum or others,&rsquo; says Caixia Gao of the Chinese Academy of Sciences in Beijing. &lsquo;Then we might try to domesticate plants that have never been domesticated.&rsquo;\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EB. \u003C/strong\u003EWild tomatoes, which are native to the Andes region in South America, produce pea-sized fruits. {[Over many generations, peoples such as the Aztecs and Incas transformed the plant by selecting and breeding plants with mutations* in their genetic structure, which resulted in desirable traits such as larger fruit.][2]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[But every time a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost. And sometimes the desirable mutations come with less desirable traits. For instance, the tomato strains grown for supermarkets have lost much of their flavour.][2-11]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003EBy comparing the genomes of modern plants to those of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated. The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains.\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EC. \u003C/strong\u003E{[Kudla&rsquo;s team made six changes altogether. For instance, they tripled the size of fruit by editing a gene called FRUIT WEIGHT, and increased the number of tomatoes per truss by editing another called MULTIFLORA.][12]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003EWhile the historical domestication of tomatoes reduced levels of the red pigment lycopene &ndash; thought to have potential health benefits &ndash; the team in Brazil managed to boost it instead. The wild tomato has twice as much lycopene as cultivated ones; the newly domesticated one has five times as much.\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[&lsquo;They are quite tasty,&rsquo; says Kudla. &lsquo;A little bit strong. And very aromatic.&rsquo;][5]}{[The team in China re-domesticated several strains of wild tomatoes with desirable traits lost in domesticated tomatoes. In this way they managed to create a strain resistant to a common disease called bacterial spot race, which can devastate yields. They also created another strain that is more salt tolerant &ndash; and has higher levels of vitamin C.][1-13]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003ED. \u003C/strong\u003EMeanwhile, Joyce Van Eck at the Boyce Thompson Institute in New York state decided to use the same approach to domesticate the groundcherry or goldenberry (Physalis pruinosa) for the first time. This fruit looks similar to the closely related Cape gooseberry (Physalis peruviana).\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[Groundcherries are already sold to a limited extent in the US but they are hard to produce because the plant has a sprawling growth habit and the small fruits fall off the branches when ripe. Van Eck&rsquo;s team has edited the plants to increase fruit size, make their growth more compact and to stop fruits dropping. &lsquo;There&rsquo;s potential for this to be a commercial crop,&rsquo; says Van Eck. But she adds that taking the work further would be expensive because of the need to pay for a licence for the CRISPR technology and get regulatory approval.][9]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E\u003Cstrong\u003EE.\u003C/strong\u003E {[This approach could boost the use of many obscure plants, says Jonathan Jones of the Sainsbury Lab in the UK. But it will be hard for new foods to grow so popular with farmers and consumers that they become new staple crops, he thinks.][7]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[The three teams already have their eye on other plants that could be &lsquo;catapulted into the mainstream&rsquo;, including foxtail, oat-grass and cowpea.][3]}{[By choosing wild plants that are drought or heat tolerant, says Gao, we could create crops that will thrive even as the planet warms.][6]}\u003C/p\u003E\n\u003Cp dir=\"ltr\"\u003E{[But Kudla didn&rsquo;t want to reveal which species were in his team&rsquo;s sights, because CRISPR has made the process so easy. &lsquo;Anyone with the right skills could go to their lab and do this.&rsquo;][8]}\u003C/p\u003E\n\u003Chr\u003E\n\u003Cp dir=\"ltr\"\u003E* mutations: changes in an organism&rsquo;s genetic structure that can be passed down to later generations\u003C/p\u003E",
+        "simplified_content": null,
         "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
-        "date_created": "2024-01-07T11:43:52.981+07:00",
-        "date_updated": "2024-11-08T16:52:35.616+07:00",
+        "date_created": "2024-01-08T13:28:19.306+07:00",
+        "date_updated": "2024-11-08T13:50:05.633+07:00",
         "explanations": [],
         "questions": [
           {
-            "id": 3543,
+            "id": 3694,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_INFO",
@@ -42,18 +42,18 @@
             "content_writing": "",
             "sort": 1,
             "order": 1,
-            "part_id": 795,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-K4jydUj4hoHXKNx0flZld2OigVe\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HLAudRZ16okX1mxKOHwlSVQNgYw\"\u003EGiải th&iacute;ch về c&aacute;c quy tr&igrave;nh c&ocirc;ng nghiệp tạo ra nguy&ecirc;n liệu th&ocirc; tiềm năng cho b&ecirc; t&ocirc;ng.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-DcEEd62r9obUSOxc2qtlfrBqghg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Gd6ddx7paoTAPRxjbJAlSbj0gg2\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-UtBadmTrRoACfNxhXMYlL19xgBh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EFly ash and slag from iron ore\u003C/strong\u003E ~ industrial processes\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-UaZZdcfTfoh8U0xYwkjl2zJLgag\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Epossible alternatives to cement in a concrete mix\u003C/strong\u003E ~ potential raw materials for concrete\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GsR3d4x46oHnXdxGye4lOuh6gmb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SwZ7drISOodE2mxyHRglZioOg0f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QXRodXNDZoMlZ8xxWXZliwmNg4b\"\u003EĐoạn G chỉ r&otilde; \"Tro bay \u003Cem\u003E(fly ash)\u003C/em\u003E v&agrave; xỉ từ quặng sắt \u003Cem\u003E(slag from iron ore)\u003C/em\u003E l&agrave; những lựa chọn thay thế tiềm năng cho xi măng trong hỗn hợp b&ecirc; t&ocirc;ng. \u003Cu\u003E\u003Cstrong\u003ETro bay, một sản phẩm phụ của c&aacute;c nh&agrave; m&aacute;y điện đốt than, c&oacute; thể được kết hợp v&agrave;o hỗn hợp b&ecirc; t&ocirc;ng\u003C/strong\u003E\u003C/u\u003E để thay thế từ 15 đến 30% xi măng m&agrave; kh&ocirc;ng l&agrave;m ảnh hưởng đến độ bền của hỗn hợp. \u003Cu\u003E\u003Cstrong\u003EXỉ quặng sắt, một sản phẩm phụ của qu&aacute; tr&igrave;nh luyện quặng sắt\u003C/strong\u003E\u003C/u\u003E, cũng c&oacute; c&ocirc;ng dụng tương tự\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XHvRdRIE2o7KTFxSUnKlASwFggf\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn G đ&atilde; &ldquo;\u003Cem\u003Egiải th&iacute;ch về c&aacute;c quy tr&igrave;nh c&ocirc;ng nghiệp tạo ra nguy&ecirc;n liệu th&ocirc; (tro bay v&agrave; xỉ quặng sắt) tiềm năng cho b&ecirc; t&ocirc;ng\u003C/em\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QwZgdMRIUoYhy7xmF6jlziYnghe\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VrYFdInIYoQHDIxPtoLlwkMLg7f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: G\u003C/div\u003E\n\u003C/div\u003E",
-            "description": "\u003Ch2\u003EQuestions 1 - 4:\u003C/h2\u003E\n\u003Cp\u003EReading Passage 1 has eight sections, \u003Cstrong\u003EA-H\u003C/strong\u003E. Which section contains the following information?\u003C/p\u003E\n\u003Cp\u003EWrite the correct letter, \u003Cstrong\u003EA-H\u003C/strong\u003E, in boxes 1-4 on your answer sheet.\u003C/p\u003E",
-            "gap_fill_in_blank": "\u003Cp\u003E\u003Ciframe id=\"aswift_4\" src=\"https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&amp;client=ca-pub-7361163811890432&amp;output=html&amp;h=280&amp;adk=252156404&amp;adf=3812877354&amp;pi=t.aa~a.791826998~i.59~rp.4&amp;w=744&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1703918803&amp;num_ads=1&amp;rafmt=1&amp;armr=3&amp;sem=mc&amp;pwprc=3130295935&amp;ad_type=text_image&amp;format=744x280&amp;url=https%3A%2F%2Fieltstrainingonline.com%2Fpractice-cambridge-ielts-018-reading-test-03-with-answer%2F&amp;ea=0&amp;fwr=0&amp;pra=3&amp;rh=186&amp;rw=744&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=27&amp;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTIwLjAuNjA5OS4xMzAiLG51bGwsMCxudWxsLCI2NCIsW1siTm90X0EgQnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEyMC4wLjYwOTkuMTMwIl0sWyJHb29nbGUgQ2hyb21lIiwiMTIwLjAuNjA5OS4xMzAiXV0sMF0.&amp;dt=1703918757442&amp;bpp=17&amp;bdt=597&amp;idt=17&amp;shv=r20231207&amp;mjsv=m202312070101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D4a70c52f3fc68828%3AT%3D1703910991%3ART%3D1703918754%3AS%3DALNI_MajhSnDsNneANIrsmhciz0HtkGt5A&amp;gpic=UID%3D00000ccb0532267b%3AT%3D1703910991%3ART%3D1703918754%3AS%3DALNI_MYsQJwUXJ6snCugqTO02cVccI0pAg&amp;prev_fmts=0x0%2C744x280&amp;nras=2&amp;correlator=6792843275127&amp;frm=20&amp;pv=1&amp;ga_vid=1006761144.1703910992&amp;ga_sid=1703918757&amp;ga_hid=1687205165&amp;ga_fc=1&amp;ga_cid=1089658496.1703910992&amp;u_tz=420&amp;u_his=7&amp;u_h=720&amp;u_w=1280&amp;u_ah=680&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1.5&amp;dmc=8&amp;adx=126&amp;ady=3907&amp;biw=1263&amp;bih=593&amp;scr_x=0&amp;scr_y=1543&amp;eid=44759876%2C44759927%2C31079714%2C31079979%2C31080104%2C44798934%2C95320870%2C95320885%2C31078663%2C31078665%2C31078668%2C31078670&amp;oid=2&amp;pvsid=2769073269592971&amp;tmod=613195767&amp;uas=3&amp;nvt=1&amp;ref=https%3A%2F%2Fieltstrainingonline.com%2Fcambridge-practice-tests-for-ielts-reading%2F&amp;fc=1408&amp;brdim=0%2C0%2C0%2C0%2C1280%2C0%2C1280%2C680%2C1280%2C593&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=128&amp;bc=31&amp;td=1&amp;psd=W251bGwsbnVsbCxudWxsLDNd&amp;nt=1&amp;ifi=8&amp;uci=a!8&amp;btvi=1&amp;fsb=1&amp;dtd=45903\" name=\"aswift_4\" width=\"744\" height=\"0\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation\" allow=\"attribution-reporting\" data-google-container-id=\"a!8\" data-google-query-id=\"CLa6_pfItoMDFRJODwIdhr4OpA\" data-load-complete=\"true\"\u003E\u003C/iframe\u003E\u003C/p\u003E\n\u003Cp\u003E&nbsp;\u003C/p\u003E",
+            "explain": "\u003Cdiv dir=\"ltr\" align=\"left\"\u003E\n\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HVQqdxmWYoTAfMxnHMulsZwWgdc\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LutSdpAbJoq0qQxw6CalIWjSgTg\"\u003EĐề cập đến một loại c&agrave; chua c&oacute; thể kh&aacute;ng lại một loại bệnh nhiễm tr&ugrave;ng nguy hiểm.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MmPtd9NDroV3GvxALAnlz8vbgYS\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RkBgdNXZ0o3J0KxDql2lXQTRg2g\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Q4FYd19K5obwgWxsKf5lG6XNgxd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eresistant to a common disease\u003C/strong\u003E ~ can resist a dangerous infection\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-GILRdWt0xoU8oHxXt2pl6Corg9e\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ebacterial spot race\u003C/strong\u003E ~ dangerous infection\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QCyKdy671oFpP7x01IIlTJfdg6d\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RCWmdq0LMoHSIrxrhDSlcadqgCg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-KDPpdvDzXo1qavxVLN9lZlBCgkN\"\u003EĐoạn C chỉ r&otilde;: \"Nh&oacute;m nghi&ecirc;n cứu b&ecirc;n Trung Quốc đ&atilde; \"thuần h&oacute;a lại\" v&agrave;i giống c&agrave; chua hoang d&atilde; c&oacute; những đặc t&iacute;nh tốt m&agrave; c&agrave; chua nh&agrave; đ&atilde; đ&aacute;nh mất. \u003Cu\u003E\u003Cstrong\u003ENhờ vậy, họ tạo ra được một giống c&agrave; chua kh&aacute;ng được bệnh đốm vi khuẩn, một loại bệnh phổ biến c&oacute; thể ph&aacute; n&aacute;t cả vụ m&ugrave;a\u003C/strong\u003E\u003C/u\u003E\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JgOudezJQoq25rx7biolTGyzg5n\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn C đ&atilde; \u003Cem\u003E\"đề cập đến một loại c&agrave; chua c&oacute; thể kh&aacute;ng lại một bệnh nhiễm tr&ugrave;ng nguy hiểm\u003C/em\u003E\u003Cem\u003E (bệnh đốm vi khuẩn)\u003C/em\u003E\u003Cem\u003E\"\u003C/em\u003E.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-B7BudchFWoLs9JxVBhpluNKdgKf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BR0CdnErOohzcPx3NHUlB6mwgxW\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: C\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
+            "description": "\u003Ch2\u003EQuestions 1 - 5:\u003C/h2\u003E\n\u003Cp\u003EReading Passage 2 has five paragraphs, \u003Cstrong\u003EA-E\u003C/strong\u003E. Which section contains the following information?\u003C/p\u003E\n\u003Cp\u003EWrite the correct letter,&nbsp;\u003Cstrong\u003EA-E\u003C/strong\u003E, in boxes 1-5 on your answer sheet.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003ENB You may use any letter more than once.\u003C/em\u003E\u003C/p\u003E",
+            "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "An explanation of the industrial processes that create potential raw materials for concrete",
-                "answer": "G"
+                "text": "A reference to a type of tomato that can resist a dangerous infection.",
+                "answer": "C"
               }
             ],
             "mutilple_choice": null,
@@ -72,21 +72,12 @@
               },
               {
                 "option": "E"
-              },
-              {
-                "option": "F"
-              },
-              {
-                "option": "G"
-              },
-              {
-                "option": "H"
               }
             ],
             "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
             "user_updated": "266f2058-72cc-4c10-9f12-dbc5045539bf",
-            "date_created": "2024-01-07T11:46:01.46+07:00",
-            "date_updated": "2024-09-01T11:09:48.047+07:00",
+            "date_created": "2024-01-08T13:29:43.821+07:00",
+            "date_updated": "2024-09-01T09:32:52.506+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -104,7 +95,7 @@
             "locate_info": null
           },
           {
-            "id": 6979,
+            "id": 6936,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_INFO",
@@ -114,18 +105,18 @@
             "content_writing": "",
             "sort": 2,
             "order": 2,
-            "part_id": 795,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SrJ7dQszuovumcxI9RRlABG5gvf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VKlodiXDIoLANRxw9U1lDZVugxg\"\u003EĐề cập đến những địa điểm kh&aacute;c nhau c&oacute; thể t&igrave;m thấy c&aacute;c t&ograve;a nh&agrave; gỗ cao tầng.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Mb1FdkW5woo4rXxa9fMlkFqWgqg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-N1wrdlfu5ovNX5xujWklUI3fgvh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-YPGmd1Vo8oSJ7kxEopolW8kXg5g\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EVancouver, Vienna v&agrave; Brumunddal in Norway\u003C/strong\u003E ~ various locations\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-AwytdC7gDo1I0LxiXi3lUQmPgdg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Econstructed tall, wooden buildings \u003C/strong\u003E~ high-rise wooden buildings\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BsHedGNohoCiQ1xFnmJlzLIDgqh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UgdddEUldo9ktBxzm0Zl7Hxmg9c\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZyzndLdd4ofiL8xonTdlk0aXgog\"\u003EĐoạn D chỉ r&otilde; \"Những năm gần đ&acirc;y đ&atilde; xuất hiện c&aacute;c t&ograve;a nh&agrave; cao tầng được x&acirc;y dựng gần như ho&agrave;n to&agrave;n bằng gỗ. \u003Cu\u003E\u003Cstrong\u003EVancouver, Vienna v&agrave; Brumunddal ở Na Uy\u003C/strong\u003E\u003C/u\u003E đều l&agrave; nơi c&oacute; c&aacute;c t&ograve;a nh&agrave; gỗ cao tầng được x&acirc;y dựng\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Mld6dsrdvoxlIQx9uO1lHuyxgre\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn D đ&atilde; &ldquo;\u003Cem\u003Eđề cập đến những địa điểm kh&aacute;c nhau c&oacute; thể t&igrave;m thấy c&aacute;c t&ograve;a nh&agrave; gỗ cao tầng\u003C/em\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZUVSdtAgEoNaBsxTEf8lIE7RgSg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-T6bRdNjqgoo0dJxARrClgzNLgNc\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: D\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LkMidmHXJoaIKGx5apVlt7iwgLb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Tgh1diZvUoKFQExwGUalUmA4gMf\"\u003EMột lời giải th&iacute;ch về việc c&aacute;c vấn đề c&oacute; thể nảy sinh khi chỉ tập trung v&agrave;o một loại c&acirc;y c&agrave; chua nhất định.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GlFgdiu6doRY2WxVhbnlTK3lgof\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-FfMsddVhEobxGGxOut4lV9XXgmd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-CHpUdn9mkoQLWaxFPptl553LgWc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Emuch genetic diversity is lost / less desirable traits\u003C/strong\u003E ~ problems can arise\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Wi4Sd98Dtoy2tJxIyQdlBjiJgMg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Esingle plant with a mutation is taken\u003C/strong\u003E ~ focusing only on a certain type of tomato plant\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-S30gdcOIQoWrigxl99ilvc9AgId\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-I9wdd4xsUoi0Unx5EDplS1vwgid\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NsoVdCQ4Soj4tVxmXY6lbUefgpd\"\u003EĐoạn B chỉ r&otilde;: \"Qua nhiều thế hệ, c&aacute;c d&acirc;n tộc như người Aztec v&agrave; Inca đ&atilde; biến đổi c&acirc;y c&agrave; chua bằng c&aacute;ch chọn lọc v&agrave; lai tạo những c&acirc;y c&oacute; đột biến trong cấu tr&uacute;c gen, dẫn đến những đặc t&iacute;nh mong muốn như quả to hơn. \u003Cu\u003E\u003Cstrong\u003ENhưng mỗi lần chọn một c&acirc;y đột biến từ một quần thể lớn để lai tạo l&agrave; y như rằng mất đi một mớ gen qu&yacute;. V&agrave; đ&ocirc;i khi những gen đột biến m&agrave; họ mong muốn lại đi k&egrave;m với những đặc t&iacute;nh dị. Chẳng hạn, những giống c&agrave; chua được trồng cho c&aacute;c si&ecirc;u thị đ&atilde; mất đi phần lớn hương vị của ch&uacute;ng\u003C/strong\u003E\u003C/u\u003E\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Vp8hdU7OvoNF6axEK9NldbBYg9b\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn B đ&atilde; \u003Cem\u003E\"\u003C/em\u003E\u003Cem\u003EMột lời giải th&iacute;ch về việc c&aacute;c vấn đề c&oacute; thể nảy sinh khi chỉ tập trung v&agrave;o một loại c&acirc;y c&agrave; chua nhất định\u003C/em\u003E\u003Cem\u003E\"\u003C/em\u003E.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Vh4Fdmv0HovQA0xZhKQl6i1ogfe\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-R8qvdLkLAopJXsxkX6Klgfr5gOd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: B\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "A reference to the various locations where high-rise wooden buildings can be found",
-                "answer": "D"
+                "text": "An explanation of how problems can arise from focusing only on a certain type of tomato plant.",
+                "answer": "B"
               }
             ],
             "mutilple_choice": null,
@@ -144,21 +135,12 @@
               },
               {
                 "option": "E"
-              },
-              {
-                "option": "F"
-              },
-              {
-                "option": "G"
-              },
-              {
-                "option": "H"
               }
             ],
             "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
             "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
-            "date_created": "2024-06-06T16:50:46.586+07:00",
-            "date_updated": "2024-08-12T01:04:05.669+07:00",
+            "date_created": "2024-06-06T15:10:35.457+07:00",
+            "date_updated": "2024-08-18T20:05:27.221+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -176,7 +158,7 @@
             "locate_info": null
           },
           {
-            "id": 6980,
+            "id": 6937,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_INFO",
@@ -186,18 +168,18 @@
             "content_writing": "",
             "sort": 3,
             "order": 3,
-            "part_id": 795,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IuIZdwqMfoxqiYxn6ahlG0wGgsg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MXjod27smomyCZxt8pgltnJ0g1c\"\u003EChỉ ra mức độ phủ rộng của c&aacute;c nguy&ecirc;n liệu l&agrave;m b&ecirc; t&ocirc;ng.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NVHBdc2AnoqcIaxtx39lqdaRgON\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SdhGdbxgyoQqBVxDLLdl4cDJgVj\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Wu9DdKSTHoNopSxeH3Vl2CxvgAd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eingredients of concrete\u003C/strong\u003E ~ raw materials of concrete\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-V7SpdLEc4oLP5sxrj5mlvX5UgGh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Efound in abundance in most places around the globe ~ \u003C/strong\u003Ewidely available\u003Cstrong\u003E \u003C/strong\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Ix4fdGPPxo7SDexvlCKlPSULgfd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HcEodPkIWotpu7xd6nmlr54VgEd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MZlUdips5ojlSNxgPTelzxD3gmg\"\u003EĐoạn C chỉ r&otilde; \"Kh&ocirc;ng chỉ c&aacute;c th&agrave;nh phần của b&ecirc; t&ocirc;ng tương đối rẻ v&agrave; \u003Cu\u003E\u003Cstrong\u003Ec&oacute; nhiều ở hầu hết c&aacute;c nơi tr&ecirc;n thế giới\u003C/strong\u003E\u003C/u\u003E, bản th&acirc;n vật liệu n&agrave;y c&ograve;n c&oacute; những đặc t&iacute;nh tuyệt vời nữa\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IJEtdvjycoL70nxMvGelIGnVgNc\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn C đ&atilde; &ldquo;\u003Cem\u003Echỉ ra mức độ phủ rộng của c&aacute;c nguy&ecirc;n liệu l&agrave;m b&ecirc; t&ocirc;ng&rdquo;.\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QVVHdLmzBooYtUxTf0BlKoBBgxf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JlzFdiOU0on6WOxsmQRl6qQZgmf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n C\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QpmxdqWGaomiC0xQih7ltTs4gpb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LvYTdhnIco32h8x97TzlUrd0gzh\"\u003EĐưa ra một số v&iacute; dụ về c&aacute;c loại c&acirc;y hiện kh&ocirc;ng được trồng nhưng c&oacute; thể trở th&agrave;nh nguồn thực phẩm hữu &iacute;ch.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-N1EydYeSEoWnc4xOoj8lWD8lgmd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RVv9d9hvMozvxXxa5gxlStIEgdf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-DkbadA24CoIdLVxoIMxlhWwNgOd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Efoxtail, oat-grass and cowpea\u003C/strong\u003E ~ examples of plants that are not cultivated at present\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-FRgHd2R2Uon1pmxpPUZlyQD9gFc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ecould create crops that will thrive\u003C/strong\u003E ~ could be useful as food sources\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-W8qldyxnIoHjeIxDtX0lt5RAgsh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PE3ldjce3oXRPPxb2jolCawHgJh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C8oVdijiVot0ZXxVJ2GlTOudgXh\"\u003EĐoạn E chỉ r&otilde;: \"Ba nh&oacute;m nghi&ecirc;n cứu đ&atilde; để mắt đến v&agrave;i loại c&acirc;y kh&aacute;c, c&oacute; thể chọn l&agrave;m \"h&agrave;ng hot\" trong tương lai, \u003Cu\u003E\u003Cstrong\u003Etrong đ&oacute; c&oacute; cỏ đu&ocirc;i c&aacute;o, cỏ yến mạch v&agrave; đậu đũa\u003C/strong\u003E\u003C/u\u003E. Bằng c&aacute;ch chọn những c&acirc;y hoang d&atilde; chịu được hạn h&aacute;n hoặc nhiệt độ cao, ch&uacute;ng ta c&oacute; thể tạo ra những c&acirc;y trồng sẽ ph&aacute;t triển mạnh ngay cả khi tr&aacute;i đất đang dần n&oacute;ng l&ecirc;n.\"\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Q9rsdeziLotSXyxmbSMlmkRqgjf\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn E đ&atilde; \u003Cem\u003E\"đưa ra một số v&iacute; dụ về c&aacute;c loại c&acirc;y hiện kh&ocirc;ng được trồng nhưng c&oacute; thể trở th&agrave;nh nguồn thực phẩm hữu &iacute;ch\"\u003C/em\u003E.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-W6undtP4ToH6T4xKEyqlhatkgng\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NW04dXWProJawwxa8TYlrKZtgWb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: E\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "An indication of how widely available the raw materials of concrete are",
-                "answer": "C"
+                "text": "A number of examples of plants that are not cultivated at present but could be useful as food sources.",
+                "answer": "E"
               }
             ],
             "mutilple_choice": null,
@@ -216,21 +198,12 @@
               },
               {
                 "option": "E"
-              },
-              {
-                "option": "F"
-              },
-              {
-                "option": "G"
-              },
-              {
-                "option": "H"
               }
             ],
             "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
             "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
-            "date_created": "2024-06-06T16:50:46.607+07:00",
-            "date_updated": "2024-08-12T01:04:05.71+07:00",
+            "date_created": "2024-06-06T15:10:35.483+07:00",
+            "date_updated": "2024-08-18T20:05:27.247+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -248,7 +221,7 @@
             "locate_info": null
           },
           {
-            "id": 6981,
+            "id": 6938,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_INFO",
@@ -258,191 +231,17 @@
             "content_writing": "",
             "sort": 4,
             "order": 4,
-            "part_id": 795,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Px73dwlP7oCm4WxVqdwl1XedgVb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BFjxdejJRowIlmxjTeRl2ouKgoh\"\u003EChỉ ra &yacute; kiến cho rằng chỉ khi c&oacute; nhiều dự &aacute;n th&agrave;nh c&ocirc;ng sử dụng gỗ trong x&acirc;y dựng cao tầng, th&igrave; gỗ mới c&oacute; thể chứng minh được t&iacute;nh khả thi của n&oacute;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Xfl4d0XW9oypL1xhwLzlWZQwg7J\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BeD0dighrokDTKxNaGhlWAkpgL9\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Up2GdBZtyoownPxjPE8lFjjXgZc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Econstruction projects\u003C/strong\u003E ~ high-rise wooden buildings are needed\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-VincdVdleoVrvwxDRKvlBvYCgpb\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EPossible \u003C/strong\u003E~ viable\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-D9w0dyTQ7oRwxXxSp2QlfcbEgAh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EA real alternative to concrete\u003C/strong\u003E ~ construction material\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YSOHd3WszoOwZ9xH2jElI0FdgCe\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RDUBdtcLKoGfkdxCDUjlE3XDg1g\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JH8gd0ArvomFdXxK5Hpl4vhBgxR\"\u003EĐoạn F chỉ r&otilde;\u003Cem\u003E \"Tuy nhi&ecirc;n, ngay cả gỗ đ&atilde; qua xử l&yacute; th&igrave; vẫn c&oacute; những hạn chế. \u003C/em\u003E\u003Cu\u003E\u003Cem\u003E\u003Cstrong\u003EChỉ khi nhiều c&ocirc;ng tr&igrave;nh x&acirc;y dựng bằng gỗ được thực hiện v&agrave; chứng minh được sự hiệu quả, ch&uacute;ng ta mới c&oacute; thể coi gỗ l&agrave; một vật liệu thay thế thực sự cho b&ecirc; t&ocirc;ng trong việc x&acirc;y dựng nh&agrave; cao tầng\u003C/strong\u003E\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E\".\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Mi3SddWaho62ttx9bnPlxBf3gyf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JYvxdpSUloD87TxvStpl95EFgOh\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn B đ&atilde; &ldquo;\u003Cem\u003Echỉ ra &yacute; kiến cho rằng chỉ khi c&oacute; nhiều dự &aacute;n th&agrave;nh c&ocirc;ng sử dụng gỗ trong x&acirc;y dựng cao tầng, th&igrave; gỗ mới c&oacute; thể chứng minh được t&iacute;nh khả thi của n&oacute;&rdquo;.\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ANbDdwfYioDbDHxPXh4lUw1Pguc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Ty3ldHqZSoWIoDxn0ZOlmWehgVb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n F\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YTBvdWvF4obgSJxualnllVXAg7g\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IEUhda2gbohCUbxcLbyl6tlFgRf\"\u003ESo s&aacute;nh giữa qu&aacute; tr&igrave;nh thuần h&oacute;a c&agrave; chua đời đầu v&agrave; nghi&ecirc;n cứu gần đ&acirc;y hơn.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HZ6id6kAqoPREaxD3MDlMfU8glY\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZFfUdYuSHofwE8xZQzAlYNAMgxb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-KaYzdXUkZoPEhaxeAvgl2WQigdd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003E3,000 years for humans to learn how to domesticate\u003C/strong\u003E ~ early domestication of the tomato\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Wc4WdblmqoXDLVxg2ZUllGZWgec\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Edone it all over again in less than three years\u003C/strong\u003E ~ more recent research\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TttKdoSPeoErLGx6l0Ll25a6grc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OhgsdPqGjoBGs8xxhkplVp1Vguw\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UQPTdTPazo1h6ixFbk3lZZMygdd\"\u003EĐoạn A chỉ r&otilde;: \"Ng&agrave;y xưa, con người \u003Cu\u003E\u003Cstrong\u003Emất &iacute;t nhất 3000 năm\u003C/strong\u003E\u003C/u\u003E mới thuần h&oacute;a được c&agrave; chua hoang d&atilde; để trồng l&agrave;m thức ăn. Ấy vậy m&agrave; giờ đ&acirc;y, hai nh&oacute;m nghi&ecirc;n cứu b&ecirc;n Brazil v&agrave; Trung Quốc \u003Cu\u003E\u003Cstrong\u003Echỉ mất c&oacute; ba năm\u003C/strong\u003E\u003C/u\u003E đ&atilde; l&agrave;m lại từ đầu đến cuối\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-I7OddkteToZxBzxX0yTlRbtug1e\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn A đ&atilde; \u003Cem\u003E\"\u003C/em\u003E\u003Cem\u003Eso s&aacute;nh giữa qu&aacute; tr&igrave;nh thuần h&oacute;a c&agrave; chua đời đầu v&agrave; nghi&ecirc;n cứu gần đ&acirc;y hơn\u003C/em\u003E\u003Cem\u003E\"\u003C/em\u003E.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OQ0fdHxIOokZAGxP3YLlYOV6gXd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TW8TdmEaHoGRXbxqYBClC0LbgSg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: A\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "The belief that more high-rise wooden buildings are needed before wood can be regarded as a viable construction material",
-                "answer": "F"
-              }
-            ],
-            "mutilple_choice": null,
-            "selection_option": [
-              {
-                "option": "A"
-              },
-              {
-                "option": "B"
-              },
-              {
-                "option": "C"
-              },
-              {
-                "option": "D"
-              },
-              {
-                "option": "E"
-              },
-              {
-                "option": "F"
-              },
-              {
-                "option": "G"
-              },
-              {
-                "option": "H"
-              }
-            ],
-            "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
-            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
-            "date_created": "2024-06-06T16:50:46.622+07:00",
-            "date_updated": "2024-08-12T01:04:05.742+07:00",
-            "instruction": null,
-            "writing_logical_frame": null,
-            "writing_graph_image": null,
-            "writing_graph_description": null,
-            "writing_graph_type": null,
-            "time_limit": null,
-            "audio_url": null,
-            "min_words": 0,
-            "max_words": 0,
-            "question_set_id": null,
-            "correct_answer": "",
-            "correct_answers": null,
-            "text": "",
-            "options": null,
-            "locate_info": null
-          },
-          {
-            "id": 3544,
-            "quiz_id": 0,
-            "type": "FILL-IN-THE-BLANK",
-            "question_type": "FILL_BLANK",
-            "title": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 5-8 on your answer sheet.",
-            "status": "published",
-            "content": "",
-            "content_writing": "",
-            "sort": 5,
-            "order": 5,
-            "part_id": 795,
-            "time_to_think": null,
-            "listen_from": null,
-            "locate": null,
-            "explain": "\u003Cdiv dir=\"ltr\" align=\"left\"\u003E\n\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"true\"\u003E\n\u003Ctable class=\"ace-table\" style=\"width: 97.6614%; height: 2736px;\" data-ace-table-col-widths=\"695\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width: 99.8563%;\" width=\"695\"\u003E\u003C/colgroup\u003E\n\u003Ctbody\u003E\n\u003Ctr style=\"height: 666px;\"\u003E\n\u003Ctd style=\"height: 666px;\" colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TUG1d87fSo9aSDxlkvNlwv1ygGd\"\u003E{[C&acirc;u 5:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Em9pddlKTovgyuxUUqhleUxdgUd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AHB5dkkgNoiglax0zsElrVtOgmc\"\u003EGỗ l&agrave; vật liệu x&acirc;y dựng truyền thống, nhưng những mối quan ngại về m&ocirc;i trường hiện tại đang khuyến kh&iacute;ch ________ sử dụng gỗ trong c&aacute;c dự &aacute;n x&acirc;y dựng hiện đại.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ANwKd9WSContB2xvRbElEfzdgsg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-N9FkdiypNoQcDmxRXRflxEuagSh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-K4cudVStfo195RxSxlyliJSugSn\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ:\u003C/strong\u003E NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-BhyndzGqcohsGuxN8vSlP4LTgIR\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu: \u003C/strong\u003Eencouraging + NOUN \u003Cem\u003E(NOUN l&agrave;m Object của Transitive Verb &lsquo;\u003C/em\u003E\u003Cem\u003EENCOURAGE\u003C/em\u003E\u003Cem\u003E')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HSgWdeShaoFaVXxO9Tzl08FRgwQ\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Oh2cdCOmsortUzxVQ5plYrY0gjf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-NVXOdPUaMoTfFSxzfJllcz8Vg8e\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eclimate change is driving\u003C/strong\u003E ~ current environmental concerns are\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-WxrtdVY0xovIX7xsFiylNyvDgBe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eencouraging\u003C/strong\u003E ~ từ kh&oacute;a giữ nguy&ecirc;n\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-J01udX5eNonVZaxCXrVlI0gCguc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UL3LdG4Pvo7xN1xgus3lmFp8god\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E\u003Cstrong\u003E \u003C/strong\u003ESo s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CpI3dLhb5oNEKwxoITXlXMoUgbg\"\u003EB&agrave;i đọc chỉ r&otilde; \"biến đổi kh&iacute; hậu đang th&uacute;c đẩy \u003Cu\u003E\u003Cstrong\u003Ec&aacute;c kiến tr&uacute;c sư\u003C/strong\u003E\u003C/u\u003E quay trở lại với gỗ đ&atilde; qua xử l&yacute; như một nguồn t&agrave;i nguy&ecirc;n c&oacute; thể sử dụng\" \u003Cem\u003E(climate change is driving \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Earchitects\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E to turn to treated timber as a possible resource).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BB2PdUDIqofvldx0piElVnGYgtb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-DZWPdJzMNorTbyxP2PulC0BNgwy\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: architects\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HkcXdc6zkoIdYkxtRG1l7be2gxb\"\u003EGỗ l&agrave; vật liệu x&acirc;y dựng truyền thống, nhưng c&aacute;c mối quan t&acirc;m về m&ocirc;i trường hiện tại đang khuyến kh&iacute;ch \u003Cu\u003E\u003Cstrong\u003Ec&aacute;c kiến tr&uacute;c sư\u003C/strong\u003E\u003C/u\u003E sử dụng gỗ trong c&aacute;c dự &aacute;n x&acirc;y dựng hiện đại. \u003Cem\u003E(Wood is a traditional building material, but current environmental concerns are encouraging \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Earchitects\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E to use wood in modern construction projects.)\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SZxWdR99voUhmJxJfYtlG1XGgXc\"\u003E][5]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003Ctr style=\"height: 618px;\"\u003E\n\u003Ctd style=\"height: 618px;\" colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PHn2dFs6RolUFox8M0qlNkIRghf\"\u003E{[C&acirc;u 6:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-X8LKdJa47oK9TixP0sLlbzsegFH\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Svu0d2jeJoSPtWxuvxql6hu3gye\"\u003ETuy nhi&ecirc;n, việc sử dụng gỗ c&oacute; những th&aacute;ch thức của n&oacute;. V&iacute; dụ, khi ________ trong kh&ocirc;ng kh&iacute; đi v&agrave;o gỗ, n&oacute; tăng k&iacute;ch thước.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PsBxdvcbRoseJ5xTjZflXkDfgHe\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BWbPdZQ9cojERaxUrFplWjF9gjh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-SuqYdnxRUoOfE3xiT5ZlVcKOgOk\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ:\u003C/strong\u003E NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-ZBIed1ph2ohUUsxoIgml09V3gWf\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu: \u003C/strong\u003ENOUN ... + enters\u003Cem\u003E (NOUN l&agrave;m Subject của Finite Verb &lsquo;ENTER')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-EOajd3kHzo2AFRxVEGslOxTPgKp\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OfXDdYstRoLqVUxIJeVl4VTtgyg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-VXiQdiyPFoJt1Exs43SlfqNUgdf\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eabsorbs &hellip; from the air \u003C/strong\u003E~ &hellip; in the atmosphere enters wood\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Yiw0dUbYCoRdSyx9oTTloMjQgyc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eexpands\u003C/strong\u003E ~ increases in size\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IRnEd6Q0KogiEpx6ec3li7kcgBg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JHC8dRxYmoDeBmxMvo8lHAPfgWb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E\u003Cstrong\u003E \u003C/strong\u003ESo s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UKiPdebTxo17WHxUOQTlMO1CgMf\"\u003EB&agrave;i đọc chỉ r&otilde; \"Gỗ gi&atilde;n nở khi n&oacute; hấp thụ \u003Cu\u003E\u003Cstrong\u003Eđộ ẩm\u003C/strong\u003E\u003C/u\u003E từ kh&ocirc;ng kh&iacute;\" \u003Cem\u003E(Wood expands as it absorbs \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Emoisture\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E from the air).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C2w8dAOGdoHRbUx0O52l9e71gBg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RgBkduTq1onsNTxSVItlc0qJgLg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: moisture\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-O8ONdNyEZoDh11xbWMBlMlMNg1b\"\u003ESử dụng gỗ, tuy nhi&ecirc;n, c&oacute; những th&aacute;ch thức của n&oacute;. V&iacute; dụ, khi \u003Cu\u003E\u003Cstrong\u003Eđộ ẩm\u003C/strong\u003E\u003C/u\u003E\u003Cstrong\u003E \u003C/strong\u003Etrong kh&ocirc;ng kh&iacute; đi v&agrave;o gỗ, n&oacute; tăng k&iacute;ch thước\u003Cem\u003E. (Using wood, however, has its challenges. For example, as \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Emoisture\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E in the atmosphere enters wood, it increases in size.)\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HtiQdhvjloJoyPxNbbglr4lXgqe\"\u003E][6]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003Ctr style=\"height: 666px;\"\u003E\n\u003Ctd style=\"height: 666px;\" colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZDjxdODLLoZ2OexxGc0lZxaPg7H\"\u003E{[C&acirc;u 7:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-FJJndcAWGoFcrIxR2UyldhWgg3f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YEs0dhMk3oVBfexWA9blcq4NgKb\"\u003ETuy nhi&ecirc;n, gỗ c&oacute; thể được biến th&agrave;nh vật liệu x&acirc;y dựng tốt hơn nếu n&oacute; được xử l&yacute; v&agrave; kết hợp với c&aacute;c vật liệu kh&aacute;c. Trong một quy tr&igrave;nh, ________ gỗ đặc được d&aacute;n lại với nhau để tạo th&agrave;nh c&aacute;c khối x&acirc;y dựng.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZvMpdkPZzokW7Vxnpu1lGAJZgic\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SDu7dvsTQoDU97xG4fhlwHkGgFe\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-L0hOdReP0oypxlx3u7Pl3sZlgbc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ:\u003C/strong\u003E NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-OjlWdp39donvKdxPB6alXaudgYh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu: \u003C/strong\u003ENOUN ... + are glued ..\u003Cem\u003E (NOUN l&agrave;m Subject của Verb bị động &lsquo;ARE GLUED)\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YL1cdkVC1ouKNIxV9usl4yvegWh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GXQLdmnhAodBBQxmzQplXOFOg3W\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-K6cXdShIqo9ktPxpPO3lv8m3gVh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Etreating wood and combining it with other materials\u003C/strong\u003E ~ it is treated and combined with other materials.\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-MLrEdPVFRoTkaExlETsl4pa0g4e\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Estick &hellip; together\u003C/strong\u003E ~ &hellip; are glued together\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-XVZQdOjihory0LxqJKslPZARgBe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Esolid-sawn timber\u003C/strong\u003E ~ solid wood\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OqbKdEQzyopx2OxcmPhlSYERgVc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MCqddSX6HoFhAYxDD7Ml26UWgUb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E\u003Cstrong\u003E \u003C/strong\u003ESo s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CFyYdKxEXoDyIDxMr91lOy4AgBf\"\u003EB&agrave;i đọc chỉ r&otilde; \"Một chất kết d&iacute;nh được sử dụng để d&aacute;n \u003Cu\u003E\u003Cstrong\u003Ec&aacute;c lớp\u003C/strong\u003E\u003C/u\u003E gỗ xẻ đặc lại với nhau\" \u003Cem\u003E(An adhesive is used to stick \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Elayers\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E of solid-sawn timber together).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZGAxdd4ZCoJk4YxQkd1lD6LegMc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GSN4dQLDroOu15xSp3XlXAosgkd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: layers\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JblXdAfUJoIimQxSAmflxySagef\"\u003ETrong một quy tr&igrave;nh, \u003Cu\u003E\u003Cstrong\u003Ec&aacute;c lớp\u003C/strong\u003E\u003C/u\u003E gỗ đặc được d&aacute;n lại với nhau để tạo th&agrave;nh c&aacute;c khối x&acirc;y dựng.\u003Cem\u003E (In one process, \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Elayers\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E of solid wood are glued together to create building blocks.)\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XZhOdVenTo2qOXxT2ScluaY3glc\"\u003E][7]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003Ctr style=\"height: 786px;\"\u003E\n\u003Ctd style=\"height: 786px;\" colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HgTodyXkBolzMUxbFakluszqgGg\"\u003E{[C&acirc;u 8:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZbybdP0t1olhUHxFhWGl0npngjd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JyZKdM2y9onZfgxQFBYldljAgYe\"\u003EC&aacute;c chuy&ecirc;n gia n&oacute;i rằng c&aacute;c t&ograve;a nh&agrave; bằng gỗ l&agrave; một cải tiến so với những t&ograve;a nh&agrave; l&agrave;m bằng b&ecirc; t&ocirc;ng v&agrave; th&eacute;p về mặt ________ m&agrave; ch&uacute;ng c&oacute; thể được x&acirc;y dựng v&agrave; mức độ tiếng ồn được tạo ra bởi qu&aacute; tr&igrave;nh n&agrave;y.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-WnmedoAkBoXipfxbxZ5lHa1agFb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-EZ6WdKnslo8NVix92bMlFPzqgjg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-BfxydSjQxovOe8xqN8wlZrfXgnb\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ:\u003C/strong\u003E NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-HY5ndhOtEoXE0Gx7CynlWgLUgKh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu: \u003C/strong\u003Ethe + NOUN \u003Cem\u003E(NOUN theo sau Article \u003C/em\u003E\u003Cem\u003E'THE')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-KzeFdPuhEo3ODLx86yIlKM3wgmh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VMKMdCDB1o7CUNxfmsJlZIeYgpj\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-RrWYderGZo1V9BxRQQUlqBNbgIh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Egreater &hellip;\u003C/strong\u003E ~ an improvement in terms of &hellip;\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-HtiwdZLnYof0YJx8I6Ql6oCbgQh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eones of concrete and steel\u003C/strong\u003E ~ those made of concrete and steel\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-MEAndLyzRoxr54xfMS8lYKyOgqe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ecan be constructed\u003C/strong\u003E ~ từ kh&oacute;a giữ nguy&ecirc;n\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-M4xGdCKepoYjzkxeklalUKc1ghg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eprocess is quieter \u003C/strong\u003E~ how much noise is generated by the process\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GQiudBDVooAEOkxAKaAlWU5Zg21\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZSz3dM33PohWUgxgomvll7R0gYf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E\u003Cstrong\u003E \u003C/strong\u003ESo s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CH1LdrUNQoeBcWxyP8ElBB2ggRe\"\u003EB&agrave;i đọc chỉ r&otilde; \"C&aacute;c chuy&ecirc;n gia x&acirc;y dựng n&oacute;i rằng c&aacute;c t&ograve;a nh&agrave; bằng gỗ c&oacute; thể được x&acirc;y dựng với \u003Cu\u003E\u003Cstrong\u003Etốc độ \u003C/strong\u003E\u003C/u\u003Enhanh hơn so với c&aacute;c t&ograve;a nh&agrave; bằng b&ecirc; t&ocirc;ng v&agrave; th&eacute;p v&agrave; qu&aacute; tr&igrave;nh n&agrave;y, c&oacute; vẻ như, y&ecirc;n tĩnh hơn \u003Cem\u003E(Construction experts say that wooden buildings can be constructed at a greater \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Espeed\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E than ones of concrete and steel and the process, it seems, is quieter).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HDpWdstNIoj95hx84W7lsr0Ogdd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LDoPd2DMpojnatxol9alOkHfgJI\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: speed\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YjA9dY9ALotiDgx5WOplRXSqgK5\"\u003EC&aacute;c chuy&ecirc;n gia n&oacute;i rằng c&aacute;c t&ograve;a nh&agrave; bằng gỗ l&agrave; một cải tiến so với những t&ograve;a nh&agrave; l&agrave;m bằng b&ecirc; t&ocirc;ng v&agrave; th&eacute;p về mặt \u003Cu\u003E\u003Cstrong\u003Etốc độ\u003C/strong\u003E\u003C/u\u003E\u003Cem\u003E \u003C/em\u003Em&agrave; ch&uacute;ng c&oacute; thể được x&acirc;y dựng v&agrave; mức độ tiếng ồn được tạo ra bởi qu&aacute; tr&igrave;nh n&agrave;y. \u003Cem\u003E(Experts say that wooden buildings are an improvement on those made of concrete and steel in terms of the \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Espeed\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E with which they can be constructed and how much noise is generated by the process.)\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RyKndnBLcogxPGxywAsloQSvgGd\"\u003E][8]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
-            "description": "\u003Ch2\u003EQuestions 5 - 8:\u003C/h2\u003E",
-            "gap_fill_in_blank": "\u003Ch3 style=\"text-align: center;\"\u003E\u003Cstrong\u003EMaking buildings with wood\u003C/strong\u003E\u003C/h3\u003E\n\u003Cp\u003EWood is a traditional building material, but current environmental concerns are encouraging {[architects][5]} to use wood in modern construction projects. Using wood, however, has its challenges. For example, as {[moisture][6]} in the atmosphere enters wood, it increases in size. In addition, wood is prone to pests and the risk of fire is greater. However, wood can be turned into a better construction material if it is treated and combined with other materials. In one process, {[layers][7]} of solid wood are glued together to create building blocks. These blocks are lighter than concrete and steel but equal them in strength. Experts say that wooden buildings are an improvement on those made of concrete and steel in terms of the {[speed][8]} with which they can be constructed and how much noise is generated by the process.\u003C/p\u003E",
-            "single_choice_radio": null,
-            "selection": null,
-            "mutilple_choice": null,
-            "selection_option": null,
-            "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
-            "user_updated": "266f2058-72cc-4c10-9f12-dbc5045539bf",
-            "date_created": "2024-01-07T11:46:49.114+07:00",
-            "date_updated": "2024-09-01T11:09:48.075+07:00",
-            "instruction": null,
-            "writing_logical_frame": null,
-            "writing_graph_image": null,
-            "writing_graph_description": null,
-            "writing_graph_type": null,
-            "time_limit": null,
-            "audio_url": null,
-            "min_words": 0,
-            "max_words": 0,
-            "question_set_id": null,
-            "correct_answer": "",
-            "correct_answers": null,
-            "text": "",
-            "options": null,
-            "locate_info": null
-          },
-          {
-            "id": 3570,
-            "quiz_id": 0,
-            "type": "SINGLE-SELECTION",
-            "question_type": "MATCHING_NAMES",
-            "title": "",
-            "status": "published",
-            "content": "",
-            "content_writing": "",
-            "sort": 6,
-            "order": 9,
-            "part_id": 795,
-            "time_to_think": null,
-            "listen_from": null,
-            "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JvWld6Zi2oaYKaxVzcil49ySgOc\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PQFydSbquoSJ1hxLeYMlp6RDgCd\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"C&aacute;c vật liệu thay thế cho xi măng c&oacute; thể kh&ocirc;ng c&oacute; lợi cho m&ocirc;i trường như m&igrave;nh tưởng\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-P7BudgLw0ojv6GxPZQ2ltHoHgim\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VuPTdek9Ro0sguxPiaolHY1UgOS\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-StDWdvir1oDtbcx4GAdllKPYgph\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ecarbon reduction ~ \u003C/strong\u003Eenvironmental advantage\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-IDEZdq1dwoPtgRx0QHalnsvCgXe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ewaste products ~ \u003C/strong\u003Ecement alternatives\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-VXm5duHHOoxTaJxQ34mlgtBOguh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Emight not make sense ~ \u003C/strong\u003Emay not be as great as initially assumed\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LZ77dxnNyo1Z6ExnloclQfpTgsJ\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XsoOdfqrgo0jnWxjJIyl81X3gle\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-H0kddgBYho2OwgxAGVvlacx0gXe\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EAnna Surgenor\u003C/em\u003E \"C&oacute; thể thay thế xi măng trong b&ecirc; t&ocirc;ng bằng c&aacute;c sản phẩm phế thải để giảm t&aacute;c động carbon tổng thể. Tuy nhi&ecirc;n, cần xem x&eacute;t nhiều yếu tố trong to&agrave;n bộ v&ograve;ng đời của t&ograve;a nh&agrave; - bao gồm cả việc vận chuyển c&aacute;c vật liệu n&agrave;y từ đ&acirc;u. \u003Cu\u003E\u003Cstrong\u003ENếu ch&uacute;ng được chở từ xa bằng nhi&ecirc;n liệu h&oacute;a thạch, việc sử dụng vật liệu thay thế c&oacute; thể kh&ocirc;ng hiệu quả về mặt giảm carbon tổng thể\u003C/strong\u003E\u003C/u\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AliadZIioorlpKxExrLlW7kMggf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LnJ6dyrxPoYZBDxGfiBl1l3AgWg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: C\u003C/div\u003E\n\u003C/div\u003E",
-            "description": "\u003Ch2\u003EQuestions 9 - 13:\u003C/h2\u003E\n\u003Cp\u003ELook at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, \u003Cstrong\u003EA, B, C or D\u003C/strong\u003E.\u003C/p\u003E\n\u003Cp\u003EWrite the correct letter,&nbsp;\u003Cstrong\u003EA, B, C or D\u003C/strong\u003E, in boxes 9-13 on your answer sheet.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003ENB&nbsp;&nbsp; You may use any letter more than once.\u003C/em\u003E\u003C/p\u003E\n\u003Ctable style=\"border-collapse: collapse; width: 41.0397%;\" border=\"1\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width: 100%;\"\u003E\u003C/colgroup\u003E\n\u003Ctbody\u003E\n\u003Ctr\u003E\n\u003Ctd\u003E\n\u003Cp\u003E\u003Cstrong\u003EList of People\u003C/strong\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EA&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;&nbsp;Chris Cheeseman\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EB&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;&nbsp;Markus Mannstrom\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EC&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;&nbsp;Anna Surgenor\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003ED&nbsp;&nbsp;\u003C/strong\u003E &nbsp;&nbsp;Felix Preston and Johanna Lehne\u003C/p\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003C/tbody\u003E\n\u003C/table\u003E",
-            "gap_fill_in_blank": null,
-            "single_choice_radio": null,
-            "selection": [
-              {
-                "text": "The environmental advantage of cement alternatives may not be as great as initially assumed.",
-                "answer": "C"
-              }
-            ],
-            "mutilple_choice": null,
-            "selection_option": [
-              {
-                "option": "A"
-              },
-              {
-                "option": "B"
-              },
-              {
-                "option": "C"
-              },
-              {
-                "option": "D"
-              }
-            ],
-            "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
-            "user_updated": "266f2058-72cc-4c10-9f12-dbc5045539bf",
-            "date_created": "2024-01-07T12:01:42.434+07:00",
-            "date_updated": "2024-09-01T11:09:48.103+07:00",
-            "instruction": null,
-            "writing_logical_frame": null,
-            "writing_graph_image": null,
-            "writing_graph_description": null,
-            "writing_graph_type": null,
-            "time_limit": null,
-            "audio_url": null,
-            "min_words": 0,
-            "max_words": 0,
-            "question_set_id": null,
-            "correct_answer": "",
-            "correct_answers": null,
-            "text": "",
-            "options": null,
-            "locate_info": null
-          },
-          {
-            "id": 6982,
-            "quiz_id": 0,
-            "type": "SINGLE-SELECTION",
-            "question_type": "MATCHING_NAMES",
-            "title": "",
-            "status": "published",
-            "content": "",
-            "content_writing": "",
-            "sort": 7,
-            "order": 10,
-            "part_id": 795,
-            "time_to_think": null,
-            "listen_from": null,
-            "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Qn9VdAyDPop7MuxPDcolT2avg6e\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OkvrdT7f2ozNPex9tPGlbuVxgxf\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"Sẽ rất kh&oacute; để tạo ra một vật liệu x&acirc;y dựng thay thế cho b&ecirc; t&ocirc;ng m&agrave; c&oacute; nhiều lợi &iacute;ch tương đương như vậy\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AyTkd80uuoNG2yxR9HglJLe9gY3\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VztkdmvKAoMOQnxKXBElcoeCgEe\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-FLaSdV464ojkBAxEl3nlfxPSgkc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Every difficult\u003C/strong\u003E ~ hard to create\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-KkfndpxYPon0p0xykEflpSqygHh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eanything with similar properties\u003C/strong\u003E ~ construction alternative to concrete\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-SBSrdAKwBoHTJoxPoFslr15fgsf\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eamazing stuff\u003C/strong\u003E ~ offers so many comparable benefits\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PDcJdQhhUoJTckxUiH4lXi76gVb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CRyYdnutToKdckxVH4YlOjCZgUf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Y5ofddUKOo8OGIxVZOfllVebg9e\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EChris Cheeseman\u003C/em\u003E \"B&ecirc; t&ocirc;ng quả thực l&agrave; một vật liệu tuyệt vời. \u003Cu\u003E\u003Cstrong\u003EMuốn tạo ra thứ g&igrave; đ&oacute; c&oacute; t&iacute;nh chất tương tự sẽ rất kh&oacute; khăn đ&acirc;y\u003C/strong\u003E\u003C/u\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NTcAdJ7JgoBol0x9T5ylzihngOs\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XkySdMtdCorkSjxo4qvlC6KUg1d\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: A\u003C/div\u003E\n\u003C/div\u003E",
-            "description": null,
-            "gap_fill_in_blank": null,
-            "single_choice_radio": null,
-            "selection": [
-              {
-                "text": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits.",
+                "text": "A comparison between the early domestication of the tomato and more recent research.",
                 "answer": "A"
               }
             ],
@@ -459,12 +258,15 @@
               },
               {
                 "option": "D"
+              },
+              {
+                "option": "E"
               }
             ],
             "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
             "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
-            "date_created": "2024-06-06T16:55:03.85+07:00",
-            "date_updated": "2024-08-12T01:04:05.87+07:00",
+            "date_created": "2024-06-06T15:10:35.501+07:00",
+            "date_updated": "2024-08-18T20:05:27.277+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -482,27 +284,90 @@
             "locate_info": null
           },
           {
-            "id": 6983,
+            "id": 6939,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
-            "question_type": "MATCHING_NAMES",
+            "question_type": "MATCHING_INFO",
             "title": "",
             "status": "published",
             "content": "",
             "content_writing": "",
-            "sort": 8,
-            "order": 11,
-            "part_id": 795,
+            "sort": 5,
+            "order": 5,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-V1PKdQjxTozzSYxVwOtlzeJEgDb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HbA9d7z7roa9HnxZx5Bl8DAqgOc\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"Những mối lo ngại về m&ocirc;i trường đ&atilde; dẫn đến việc (người ta) ng&agrave;y c&agrave;ng ch&uacute; &yacute; đến việc d&ugrave;ng gỗ l&agrave;m vật liệu x&acirc;y dựng\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-H23Rd4SwPoMdgtxoqOzlX0vrgrc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SAr6dFlSiot3FTxihgbllvCvgcb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-N91ddelCBo8Uvbx9a0tleljZgsh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eclimate change concerns\u003C/strong\u003E ~ Worries about the environment\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-NYtHdWhpXom8BWxcH55lqtqGgDc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eincreasing demand\u003C/strong\u003E ~ increased interest\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-UHASdic9Qoz04rxh3uHltKj4gab\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ebuilding in wood\u003C/strong\u003E ~ wood as a construction material\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LXejdztcCoqC5lxSBY3liYDSgng\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-DsWLdNRtooCoNGxAvYslbrnngXd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CZ9QdH7A4oO5ifxvHTFlIrizgId\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EMarkus Mannstrom\u003C/em\u003E \"Stora Enso l&agrave; nh&agrave; cung cấp gỗ d&aacute;n ch&eacute;o lớn nhất ch&acirc;u &Acirc;u. Ph&oacute; chủ tịch Markus Mannstrom cho biết \u003Cu\u003E\u003Cstrong\u003Ec&ocirc;ng ty đang thấy nhu cầu x&acirc;y dựng bằng gỗ tăng l&ecirc;n tr&ecirc;n to&agrave;n cầu, nguy&ecirc;n nh&acirc;n chủ yếu l&agrave; do mối bận t&acirc;m về biến đổi kh&iacute; hậu\u003C/strong\u003E\u003C/u\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Q4WpdUuhXoalbKxpRrAlfUD8gsb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LDF1dQU2moraZuxe9AKlwF2dgse\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: B\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-A2csdwdpzocwF3xiGHolp26Igpf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GJjSd0F2OoRarexsDM5lSUlGgKc\"\u003EĐưa ra một phản ứng c&aacute; nh&acirc;n về hương vị của một loại c&agrave; chua đ&atilde; được chỉnh sửa gen.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SGtndpW9HoI4LFx3ULAlQFHMgaf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JOgbdcnlKoiUMsxwj1LlS2FOgLc\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-X8NCd3XKuo8BDFxCIMclSjJdgIe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EThey are quite tasty\u003C/strong\u003E ~ personal reaction to the flavour\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-WlRMdzKmWoIEJAxAz5LlUAfAgld\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ethe newly domesticated one\u003C/strong\u003E ~ tomato that has been genetically edited\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-FMskds78Iohopnx2OIHl5xVkgQe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-R53VdAqrMohbr3xhy04lfHM0g7d\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UbRodimWZoHSbWxyp3Ol7sx4g0c\"\u003EĐoạn C chỉ r&otilde;: \"'\u003Cu\u003E\u003Cstrong\u003ECh&uacute;ng kh&aacute; ngon\u003C/strong\u003E\u003C/u\u003E,' Kudla n&oacute;i. 'Hơi \u003Cu\u003E\u003Cstrong\u003Eđậm vị\u003C/strong\u003E\u003C/u\u003E một ch&uacute;t. V&agrave; rất \u003Cu\u003E\u003Cstrong\u003Ethơm\u003C/strong\u003E\u003C/u\u003E.'\"\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BEoqdV0O8oiapyxkthKlDdRygyf\"\u003E=&gt; Th&ocirc;ng tin n&agrave;y cho thấy đoạn C đ&atilde; \u003Cem\u003E\"đưa ra phản ứng c&aacute; nh&acirc;n về hương vị của một loại c&agrave; chua đ&atilde; được chỉnh sửa gen\"\u003C/em\u003E.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-K3ardqVswoory4xBSXTlZjGfgdg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-T6QadF0QSo7pZnxDpzNlMaFPgcg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: C\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "Worries about the environment have led to increased interest in wood as a construction material.",
+                "text": "A personal reaction to the flavour of a tomato that has been genetically edited.",
+                "answer": "C"
+              }
+            ],
+            "mutilple_choice": null,
+            "selection_option": [
+              {
+                "option": "A"
+              },
+              {
+                "option": "B"
+              },
+              {
+                "option": "C"
+              },
+              {
+                "option": "D"
+              },
+              {
+                "option": "E"
+              }
+            ],
+            "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
+            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
+            "date_created": "2024-06-06T15:10:35.515+07:00",
+            "date_updated": "2024-08-18T20:05:27.303+07:00",
+            "instruction": null,
+            "writing_logical_frame": null,
+            "writing_graph_image": null,
+            "writing_graph_description": null,
+            "writing_graph_type": null,
+            "time_limit": null,
+            "audio_url": null,
+            "min_words": 0,
+            "max_words": 0,
+            "question_set_id": null,
+            "correct_answer": "",
+            "correct_answers": null,
+            "text": "",
+            "options": null,
+            "locate_info": null
+          },
+          {
+            "id": 3695,
+            "quiz_id": 0,
+            "type": "SINGLE-SELECTION",
+            "question_type": "MATCHING_NAMES",
+            "title": "6",
+            "status": "published",
+            "content": "",
+            "content_writing": "",
+            "sort": 6,
+            "order": 6,
+            "part_id": 813,
+            "time_to_think": null,
+            "listen_from": null,
+            "locate": null,
+            "explain": "\u003Cdiv dir=\"ltr\" align=\"left\"\u003E\n\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YT3fd6iN1oV4UhxR5g3lrHjUg3e\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-V2rmdFICYolYapx5ZOglIibEgod\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"Việc thuần h&oacute;a một số lo&agrave;i thực vật c&oacute; thể gi&uacute;p ch&uacute;ng th&iacute;ch nghi với những th&aacute;ch thức m&ocirc;i trường trong tương lai\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SS9rdmm4coJl3axSI6Vl4MHYgqf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-PA07dbamSoUsNaxuxXclGXePg7b\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Yr3Edkvkbor4m8xZ9RFlcNFEgwg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EChoosing wild plants that are\u003C/strong\u003E \u003Cstrong\u003Edrought or heat-tolerant\u003C/strong\u003E ~ domestication of certain plants\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Fq8qd3WVnogVD9xIYoRl7J0cgZd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ecreate crops that will thrive even as the planet warms\u003C/strong\u003E ~ adapt to future environmental challenges\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ZoIFdC3GPoBxm8xKM1Yl2LIVg1c\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GoaFdlTcFoqMVHxlkally6asg8f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-K8aIdMOiQozRUcxCrBmlANbDgah\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003ECaixia Gao\u003C/em\u003E \"Bằng c&aacute;ch chọn những c&acirc;y hoang d&atilde; chịu được hạn h&aacute;n hoặc nhiệt độ cao, ch&uacute;ng ta c&oacute; thể tạo ra những c&acirc;y trồng \u003Cu\u003E\u003Cstrong\u003Esẽ tăng trưởng mạnh ngay cả khi h&agrave;nh tinh n&oacute;ng l&ecirc;n\u003C/strong\u003E\u003C/u\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-D38qddesloXitnxrbiGljqPHgUh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BIT9d0V5rosWkvx1mxGlz3yXgEE\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: B\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
+            "description": "\u003Ch2\u003EQuestions 6 - 10:\u003C/h2\u003E\n\u003Cp\u003ELook at the following statements (Questions 6-10) and the list of researchers below. Match each statement with the correct researcher, \u003Cstrong\u003EA-D\u003C/strong\u003E.\u003C/p\u003E\n\u003Cp\u003EWrite the correct letter, \u003Cstrong\u003EA-D\u003C/strong\u003E, in boxes 6-10 on your answer sheet.\u003C/p\u003E\n\u003Cp\u003E\u003Cem\u003ENB &nbsp; You may use any letter more than once.\u003C/em\u003E\u003C/p\u003E\n\u003Ctable style=\"border-collapse: collapse; width: 22.1614%;\" border=\"1\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width: 100%;\"\u003E\u003C/colgroup\u003E\n\u003Ctbody\u003E\n\u003Ctr\u003E\n\u003Ctd width=\"150\"\u003E\n\u003Cp\u003E\u003Cstrong\u003EList of Researchers\u003C/strong\u003E\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EA&nbsp;&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;Jorg Kudla\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EB&nbsp;&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;Caixia Gao\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EC&nbsp;&nbsp;&nbsp;\u003C/strong\u003E&nbsp;&nbsp;Joyce Van Eck\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003ED&nbsp;&nbsp;\u003C/strong\u003E &nbsp;&nbsp;Jonathan Jones\u003C/p\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003C/tbody\u003E\n\u003C/table\u003E",
+            "gap_fill_in_blank": "\u003Cp\u003E&nbsp; &nbsp;\u003C/p\u003E",
+            "single_choice_radio": null,
+            "selection": [
+              {
+                "text": "Domestication of certain plants could allow them to adapt to future environmental challenges.",
                 "answer": "B"
               }
             ],
@@ -521,10 +386,10 @@
                 "option": "D"
               }
             ],
-            "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
-            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
-            "date_created": "2024-06-06T16:55:03.87+07:00",
-            "date_updated": "2024-08-12T01:04:05.903+07:00",
+            "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
+            "user_updated": "266f2058-72cc-4c10-9f12-dbc5045539bf",
+            "date_created": "2024-01-08T13:31:18.654+07:00",
+            "date_updated": "2024-09-01T09:33:30.682+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -542,7 +407,7 @@
             "locate_info": null
           },
           {
-            "id": 6984,
+            "id": 6940,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_NAMES",
@@ -550,19 +415,19 @@
             "status": "published",
             "content": "",
             "content_writing": "",
-            "sort": 9,
-            "order": 12,
-            "part_id": 795,
+            "sort": 7,
+            "order": 7,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-P2b5d54swoGAY4xra6Clmng0gTb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BiO5dH4FoobzdnxhjlWl0P5rgoh\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"Chi ph&iacute; cao l&agrave; một yếu tố khiến người ta kh&ocirc;ng \"mặn m&agrave;\" với việc ph&aacute;t triển c&aacute;c loại xi măng mới\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C7fIdSK0goT3YGx4lnLliT8IgUe\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-WEwvdwDIioB671xbVuylz3Tmg8g\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Wf3ZdSKvLo6oFLx7BPBlB1yugKe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ecost-effective\u003C/strong\u003E ~ Expense\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-AzCad6jUkoIW6ExxxqilNS8Eg2e\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eresistance\u003C/strong\u003E ~ negative response\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-ZJ3JdU3rBoXAXtxHbQXlZtkcgR2\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Enovel cements\u003C/strong\u003E ~ development of new cements\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-K1FnddmpdohiwqxhqyIlwoNZgHd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Q82Gd0fCToeeLKxMeG2lEUlvgVb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Q219dTUY9oeYLPxpl62l6N7OgTe\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EFelix Preston and Johanna Lehne\u003C/em\u003E \"Một số loại xi măng mới đ&atilde; được cộng đồng nghi&ecirc;n cứu b&agrave;n tới b&agrave;n lui hơn một thập kỷ m&agrave; vẫn chưa c&oacute; bước đột ph&aacute;. Hiện tại, \u003Cu\u003E\u003Cstrong\u003Enhững giải ph&aacute;p thay thế n&agrave;y chưa hiệu quả về mặt chi ph&iacute; như xi măng th&ocirc;ng thường, v&agrave; ch&uacute;ng phải đối mặt với t&igrave;nh trạng thiếu nguy&ecirc;n liệu th&ocirc; v&agrave; kh&ocirc;ng được nhiều kh&aacute;ch h&agrave;ng ưa chuộng\u003C/strong\u003E\u003C/u\u003E.&rdquo;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-G8OedKXLyoWELGxVU4QlQhLlgrb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-UC5ndaejMogNX4x5iNylc2B8g4f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: D\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YqFWdh4Yao5OhxxCbx7l5KUegIg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-B06fdcbcfol57VxgKEAlP2R7gbh\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"việc trồng v&agrave; sử dụng c&aacute;c loại c&acirc;y lạ l&agrave;m thực phẩm c&oacute; thể sẽ kh&oacute; được chấp nhận tr&ecirc;n diện rộng\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OH1Dd0gDFo7Cv9xiLBCllBL2gzg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HHmHdYo8joviOGxvRN7lWLjJgoh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-F5hYdiAwdoOZByxmm5blgacMgJe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ehard for new foods to grow so popular\u003C/strong\u003E ~ may not be accepted on a large scale\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-DtRRdfjQhoTpZTxSDiclwWaogre\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eboost the use of many obscure plants\u003C/strong\u003E ~ the idea of growing and eating unusual plants\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Ok7UdgqHaoUwIzxUEYylChdygCF\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-M4lxds7WLoFD0nxuLC6liiFXg5f\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Reo8dpuiBoiRDYxkDPzlKAQTgUd\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EJonathan Jones\u003C/em\u003E \"Phương ph&aacute;p n&agrave;y c&oacute; thể th&uacute;c đẩy việc sử dụng nhiều loại c&acirc;y &iacute;t được biết đến. Tuy nhi&ecirc;n, \u003Cu\u003E\u003Cstrong\u003E&ocirc;ng cho rằng sẽ kh&oacute; để những loại thực phẩm mới n&agrave;y trở n&ecirc;n phổ biến với n&ocirc;ng d&acirc;n v&agrave; người ti&ecirc;u d&ugrave;ng v&agrave; trở th&agrave;nh c&acirc;y lương thực ch&iacute;nh\u003C/strong\u003E\u003C/u\u003E&rdquo;.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BDNtdIHjXoQHLTxbPw3lzy0Hg4d\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QyLkdJCheoWqEoxbKc4lJEUygLa\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: D\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "Expense has been a factor in the negative response to the development of new cements.",
+                "text": "The idea of growing and eating unusual plants may not be accepted on a large scale.",
                 "answer": "D"
               }
             ],
@@ -582,9 +447,9 @@
               }
             ],
             "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
-            "user_updated": "249f4207-df5a-478f-825f-ba5368c97cad",
-            "date_created": "2024-06-06T16:55:03.887+07:00",
-            "date_updated": "2024-08-17T12:08:02.909+07:00",
+            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
+            "date_created": "2024-06-06T15:19:53.168+07:00",
+            "date_updated": "2024-08-18T20:05:27.349+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -602,7 +467,7 @@
             "locate_info": null
           },
           {
-            "id": 6985,
+            "id": 6941,
             "quiz_id": 0,
             "type": "SINGLE-SELECTION",
             "question_type": "MATCHING_NAMES",
@@ -610,19 +475,19 @@
             "status": "published",
             "content": "",
             "content_writing": "",
-            "sort": 10,
-            "order": 13,
-            "part_id": 795,
+            "sort": 8,
+            "order": 8,
+            "part_id": 813,
             "time_to_think": null,
             "listen_from": null,
             "locate": null,
-            "explain": "\u003Cdiv data-page-id=\"McZVdQtMqosWXrxFrWhlHAoGgBd\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LCfbd38g2orghcxFyyNl2xjdgjf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SWYRdWjlxorTiex3slDl2ntegue\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"Thiệt hại m&ocirc;i trường do b&ecirc; t&ocirc;ng g&acirc;y ra l&agrave; v&igrave; n&oacute; được sản xuất với số lượng lớn\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BQi0dW3AnoNFfwxWH0ul0UN3gyV\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GWYndyzXtoQbbGxE9xGlV9FBggh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-ZtGSdUIQxobs9lxmOwJlXoH9g21\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ehigh carbon\u003C/strong\u003E ~ environmental damage\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Fpsgdk4MaoZgFFxGZVKlqsA9gEh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Econcrete\u003C/strong\u003E ~ concrete\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Pty6dWlIdoworYxHlGxl6fEJgHe\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Escale of manufacture\u003C/strong\u003E ~ produced in large quantities\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MKcDdtNG7otxTmxIbo8l7JrGgad\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-N4n4dKDZVoDgj7xi1U4lcydpgMd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TXDWdKS73onXyyxYwlxlhMO1gkh\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EChris Cheeseman\u003C/em\u003E \"Điều quan trọng cần phải xem x&eacute;t l&agrave; mức độ sử dụng b&ecirc; t&ocirc;ng tr&ecirc;n to&agrave;n cầu, v&agrave; khả năng n&oacute; sẽ tiếp tục được sử dụng phổ biến \"Bản th&acirc;n b&ecirc; t&ocirc;ng kh&ocirc;ng phải l&agrave; sản phẩm thải nhiều carbon. Xi măng mới l&agrave; thứ thải nhiều carbon, chứ c&ograve;n b&ecirc; t&ocirc;ng th&igrave; kh&ocirc;ng. Nhưng ch&iacute;nh v&igrave; n&oacute; được sử dụng ở quy m&ocirc; lớn n&ecirc;n mới g&acirc;y ra nhiều carbon. Vấn đề l&agrave; ở chỗ quy m&ocirc; sản xuất qu&aacute; lớn\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-QQTddKvuAovpQBxKIbHlzWgegvd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Z7NAdaoA9owbE8xlvHelkNDHgAf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: A\u003C/div\u003E\n\u003C/div\u003E",
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SxHwdGOlmotw3gxe8xXld3IUgSd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GAoAd5sHCoeLY1xj7ZAllWz9gze\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"một số thi&ecirc;n hướng nghi&ecirc;n cứu trong tương lai kh&ocirc;ng n&ecirc;n được tiết lộ c&ocirc;ng khai\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NF8qdFx2sohTgkxXrJPlYyazgwc\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-FLc4dUt6qosyVVx4JV4lfqvsgJT\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-LGSndtywToNmn1xnU1plXUdIgdQ\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Edidn't want to reveal\u003C/strong\u003E ~ It is not advisable for ... to be made public\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-UFEFdkMy7oNucnxZqdLlobGngoc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ewhich species were in his team's sights\u003C/strong\u003E ~ future direction of certain research\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XbWSdjNmPoZOOWxrfP2lBZOmgeh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VDLrdZA6AoX7uLxQt9JlAtL5g8g\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-EYZ5dmIwmoBChoxIeGXlkXoKgii\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EJorg Kudla\u003C/em\u003E \"Tuy nhi&ecirc;n, \u003Cu\u003E\u003Cstrong\u003EKudla kh&ocirc;ng muốn tiết lộ nh&oacute;m nghi&ecirc;n cứu của &ocirc;ng đang nhắm tới những lo&agrave;i c&acirc;y n&agrave;o\u003C/strong\u003E\u003C/u\u003E, bởi c&ocirc;ng nghệ CRISPR đ&atilde; khiến qu&aacute; tr&igrave;nh n&agrave;y trở n&ecirc;n qu&aacute; dễ d&agrave;ng. &Ocirc;ng n&oacute;i: 'Bất cứ ai c&oacute; kỹ năng ph&ugrave; hợp đều c&oacute; thể tham gia v&agrave;o nghi&ecirc;n cứu trong ph&ograve;ng th&iacute; nghiệm của họ'.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Oe9tdjumioQIRSxW5AblN7RGgGd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-XLw0dmuBXosGCXxkPRUl9Z9lgwh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: A\u003C/div\u003E\n\u003C/div\u003E",
             "description": null,
             "gap_fill_in_blank": null,
             "single_choice_radio": null,
             "selection": [
               {
-                "text": "The environmental damage caused by concrete is due to it being produced in large quantities.",
+                "text": " It is not advisable for the future direction of certain research to be made public.",
                 "answer": "A"
               }
             ],
@@ -642,9 +507,171 @@
               }
             ],
             "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
-            "user_updated": "249f4207-df5a-478f-825f-ba5368c97cad",
-            "date_created": "2024-06-06T16:55:03.911+07:00",
-            "date_updated": "2024-08-17T12:08:02.83+07:00",
+            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
+            "date_created": "2024-06-06T15:19:53.225+07:00",
+            "date_updated": "2024-08-18T20:05:27.381+07:00",
+            "instruction": null,
+            "writing_logical_frame": null,
+            "writing_graph_image": null,
+            "writing_graph_description": null,
+            "writing_graph_type": null,
+            "time_limit": null,
+            "audio_url": null,
+            "min_words": 0,
+            "max_words": 0,
+            "question_set_id": null,
+            "correct_answer": "",
+            "correct_answers": null,
+            "text": "",
+            "options": null,
+            "locate_info": null
+          },
+          {
+            "id": 6942,
+            "quiz_id": 0,
+            "type": "SINGLE-SELECTION",
+            "question_type": "MATCHING_NAMES",
+            "title": "",
+            "status": "published",
+            "content": "",
+            "content_writing": "",
+            "sort": 9,
+            "order": 9,
+            "part_id": 813,
+            "time_to_think": null,
+            "listen_from": null,
+            "locate": null,
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LAhxdDVUmogDqNxKyBslDzGlgRd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Oxh6dvoLtotbe6xpuNTlNFNggnd\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"việc thuần h&oacute;a một loại quả hoang d&atilde; hiện đang gặp kh&oacute; khăn v&igrave; vấn đề chi ph&iacute;\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LPdLdx1Wwo8UpjxuK4vlM2MWgjf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CnXUdIR50oLhamxJphJlKb9RgCd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-VsAbdWPDVoXb7HxCTk6l4pXcgLb\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eexpensive\u003C/strong\u003E ~ limited by the costs involved\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-J5SAdjY0Yo6iG4xJiHllAlHOgeh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IeHVd5b4fodK2ZxPV5PlMPRlgKh\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Y5m1d7NWJoPsKvxx8yglzAeqgge\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EJoyce Van Eck\u003C/em\u003E \"Loại c&acirc;y n&agrave;y c&oacute; thể trở th&agrave;nh c&acirc;y trồng thương mại'. Tuy nhi&ecirc;n, b&agrave; cũng n&oacute;i th&ecirc;m rằng để tiếp tục nghi&ecirc;n cứu sẽ \u003Cu\u003E\u003Cstrong\u003Etốn k&eacute;m,\u003C/strong\u003E\u003C/u\u003E do phải trả tiền bản quyền c&ocirc;ng nghệ CRISPR v&agrave; xin ph&eacute;p cơ quan quản l&yacute;'.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MxGudAQ4nox7bOxAR1slMQFlgkb\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Cnaqdh8MwoovHzxE4HCl0319gRf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: C\u003C/div\u003E\n\u003C/div\u003E",
+            "description": null,
+            "gap_fill_in_blank": null,
+            "single_choice_radio": null,
+            "selection": [
+              {
+                "text": "Present efforts to domesticate one wild fruit are limited by the costs involved.",
+                "answer": "C"
+              }
+            ],
+            "mutilple_choice": null,
+            "selection_option": [
+              {
+                "option": "A"
+              },
+              {
+                "option": "B"
+              },
+              {
+                "option": "C"
+              },
+              {
+                "option": "D"
+              }
+            ],
+            "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
+            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
+            "date_created": "2024-06-06T15:19:53.238+07:00",
+            "date_updated": "2024-08-18T20:05:27.406+07:00",
+            "instruction": null,
+            "writing_logical_frame": null,
+            "writing_graph_image": null,
+            "writing_graph_description": null,
+            "writing_graph_type": null,
+            "time_limit": null,
+            "audio_url": null,
+            "min_words": 0,
+            "max_words": 0,
+            "question_set_id": null,
+            "correct_answer": "",
+            "correct_answers": null,
+            "text": "",
+            "options": null,
+            "locate_info": null
+          },
+          {
+            "id": 6943,
+            "quiz_id": 0,
+            "type": "SINGLE-SELECTION",
+            "question_type": "MATCHING_NAMES",
+            "title": "",
+            "status": "published",
+            "content": "",
+            "content_writing": "",
+            "sort": 10,
+            "order": 10,
+            "part_id": 813,
+            "time_to_think": null,
+            "listen_from": null,
+            "locate": null,
+            "explain": "\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-ECWkdQFEWoTRVRxGwqSluMDqgih\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Djawd7SGyoR3dBxG5NJlYbpGgPb\"\u003EĐề hỏi ai l&agrave; người đưa ra &yacute; kiến n&agrave;y: \"ch&uacute;ng ta chỉ đang ti&ecirc;u thụ một phần rất nhỏ trong số lượng lớn c&aacute;c loại c&acirc;y c&oacute; thể ăn được tr&ecirc;n Tr&aacute;i Đất\".\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AaLwdWlyHodbrlx3YPclaj5fgad\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OhLBdbzYpokAh5xodP1lah27guc\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-B9X2dCJcgoSOlUxzg09l0GiAg1b\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003E50,000 edible plants ~ \u003C/strong\u003Eplant food available on Earth\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-G7ufdGuT7oXEXaxTqtmlagvYgdb\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003E90 percent of our energy comes from just 15 crops ~ \u003C/strong\u003EHumans only make use of a small proportion\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-BjRgdh9vYoDI88xA8qMlcotmgxg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-P5K5dqhbZo27JXxwx3SlBnMvg3A\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C6DydmmjBofFfwxu0mnl1nrqgyc\"\u003EB&agrave;i đọc chỉ r&otilde; đoạn tr&iacute;ch li&ecirc;n quan đến \u003Cem\u003EJorg Kudla\u003C/em\u003E \"Điều n&agrave;y c&oacute; thể thay đổi những g&igrave; ch&uacute;ng ta ti&ecirc;u thụ. Tr&ecirc;n thế giới c&oacute; tới 50.000 lo&agrave;i thực vật ăn được, nhưng \u003Cu\u003E\u003Cstrong\u003E90% năng lượng của ch&uacute;ng ta chỉ đến từ 15 loại c&acirc;y trồng\u003C/strong\u003E\u003C/u\u003E'.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Yd1rdWEMooeQg9xvBLKlm866g6g\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-FbWZdQxNcoT9ibxTOzplrZ3vgkg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: A\u003C/div\u003E\n\u003C/div\u003E",
+            "description": null,
+            "gap_fill_in_blank": null,
+            "single_choice_radio": null,
+            "selection": [
+              {
+                "text": "Humans only make use of a small proportion of the plant food available on Earth.",
+                "answer": "A"
+              }
+            ],
+            "mutilple_choice": null,
+            "selection_option": [
+              {
+                "option": "A"
+              },
+              {
+                "option": "B"
+              },
+              {
+                "option": "C"
+              },
+              {
+                "option": "D"
+              }
+            ],
+            "user_created": "c3bfa61e-a757-40f2-8711-78a8c9979f79",
+            "user_updated": "889e1523-1916-4d21-b24d-c475d7395030",
+            "date_created": "2024-06-06T15:19:53.252+07:00",
+            "date_updated": "2024-08-18T20:05:27.439+07:00",
+            "instruction": null,
+            "writing_logical_frame": null,
+            "writing_graph_image": null,
+            "writing_graph_description": null,
+            "writing_graph_type": null,
+            "time_limit": null,
+            "audio_url": null,
+            "min_words": 0,
+            "max_words": 0,
+            "question_set_id": null,
+            "correct_answer": "",
+            "correct_answers": null,
+            "text": "",
+            "options": null,
+            "locate_info": null
+          },
+          {
+            "id": 3696,
+            "quiz_id": 0,
+            "type": "FILL-IN-THE-BLANK",
+            "question_type": "FILL_BLANK",
+            "title": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 11-13 on your answer sheet.",
+            "status": "published",
+            "content": "",
+            "content_writing": "",
+            "sort": 11,
+            "order": 11,
+            "part_id": 813,
+            "time_to_think": null,
+            "listen_from": null,
+            "locate": null,
+            "explain": "\u003Cdiv dir=\"ltr\" align=\"left\"\u003E\n\u003Cdiv dir=\"ltr\" align=\"left\"\u003E\n\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-docx-has-block-data=\"true\"\u003E\n\u003Ctable class=\"ace-table\" data-ace-table-col-widths=\"707\"\u003E\u003Ccolgroup\u003E\u003Ccol width=\"707\"\u003E\u003C/colgroup\u003E\n\u003Ctbody\u003E\n\u003Ctr\u003E\n\u003Ctd colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Mwa7dj9boo76OhxjhZ4lRLqRgMg\"\u003E{[C&acirc;u 11:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SwDndpFxCoCV8uxjPIqlacWOgIg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GZn8dh0V6oG5WcxQ2QplyjQ9g8e\"\u003EMột đặc điểm kh&ocirc;ng mong muốn như l&agrave; mất đi ____________ c&oacute; thể bị g&acirc;y ra bởi sự đột biến trong gen của c&acirc;y c&agrave; chua.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-CfAKdMn5corJgGxXuPul5pNZgFd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-YSk7dg7PRof1LsxOhLpliBNvgmd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-L6j7dt5UlouiVrxrBR0lD03ZgDg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ\u003C/strong\u003E: NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-PR5vdhTDLoVn2hxQrBolUuIbgQd\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu\u003C/strong\u003E: loss of + NOUN \u003Cem\u003E(NOUN l&agrave;m Object của Preposition 'OF')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OWgEdXgP6oHombx27DulyYCugxd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Vh0ldGIW8o9AiGxH3USlUL5xgHg\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-T5jndrT5doXOfGxsCPzlLhmPgNh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eless desirable traits\u003C/strong\u003E~ undesirable trait\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Gm7mdk5wSoixGnxImoPlp66kgTc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Efor example\u003C/strong\u003E ~ such as\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-FR6PdyghOolVOLxJGmKll5fpgte\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Eloss \u003C/strong\u003E~ lost\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Fsu5dTVMFoPmrNx6TZTlCyxMgAd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AhjBd4qhYoiQ1sxZgpil1a9jg5L\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-LInodPumgowb4WxnVs8lQAGEgab\"\u003EB&agrave;i đọc chỉ r&otilde;: \"c&aacute;c giống c&agrave; chua được trồng cho c&aacute;c si&ecirc;u thị đ&atilde; mất đi phần lớn \u003Cu\u003E\u003Cstrong\u003Ehương vị\u003C/strong\u003E\u003C/u\u003E của ch&uacute;ng\" \u003Cem\u003E(the tomato strains grown for supermarkets have lost much of their \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Eflavour\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-VLWSdn7t5oOXJ8xgCJRlyB9IgGh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-EOOJdYt1AoY4TNxKa9olz60Agv1\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: flavour\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-P7Audc0Naocea5xR5GflksekgDh\"\u003EMột đặc điểm kh&ocirc;ng mong muốn như l&agrave; mất đi \u003Cu\u003E\u003Cstrong\u003Ehương vị\u003C/strong\u003E\u003C/u\u003E c&oacute; thể bị g&acirc;y ra bởi sự đột biến trong gen của c&acirc;y c&agrave; chua. \u003Cem\u003E(An undesirable trait such as loss of \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Eflavour\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E may be caused by a mutation in a tomato gene)\u003C/em\u003E\u003Cem\u003E.\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AImwdczxAoczzTxeetDlegKsgNb\"\u003E][11]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003Ctr\u003E\n\u003Ctd colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IaokdX59JoENPDxQWkSlJ66Hg5e\"\u003E{[C&acirc;u 12:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-DhffdNGNXo7jfUxizARlKPlOgjb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-A3ZWdmIUaoQEYMxePM8llDNqgQd\"\u003EBằng c&aacute;ch chỉnh sửa một gen trong c&acirc;y c&agrave; chua, c&aacute;c nh&agrave; nghi&ecirc;n cứu đ&atilde; l&agrave;m cho c&agrave; chua c&oacute; k&iacute;ch thước gấp ba lần so với ____________ ban đầu.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-HWwOdAKP0odWJQx5mAal5OiSg5c\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C1GedlmwHoGytsxyAL0lEF5Hgag\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-MXlJdJHqpoaexLxkA3NlFI4xgNc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ\u003C/strong\u003E: NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Ld6jd92acodDEUxoi6sllEwfgOh\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu\u003C/strong\u003E: its original + NOUN \u003Cem\u003E(NOUN theo sau t&iacute;nh từ 'ORIGINAL')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-A7BRdSQFjoPHD3x1H3HlpOzmgPd\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-EF3Ed0BE8oqlixxB1pxl4vm9gzd\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-DypSd5SoboIixUxLo53lfwBIgy5\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EKudla's team\u003C/strong\u003E ~ researchers\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-REF4d0vpVolAnxx0eXGlmPjYgnG\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Etripled \u003C/strong\u003E~ three times\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JY6GduUbiolvhsxXAQul3cYXgyf\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-H55zdHJTjo5ISzxpc8dlCkFAgXT\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C6YIdJqfSo1hROxmqBflypW2gOe\"\u003EB&agrave;i đọc chỉ r&otilde;: \"họ đ&atilde; tăng gấp ba lần \u003Cu\u003E\u003Cstrong\u003Ek&iacute;ch thước\u003C/strong\u003E\u003C/u\u003E của quả bằng c&aacute;ch chỉnh sửa một gen được gọi l&agrave; FRUIT WEIGHT\" \u003Cem\u003E(they tripled the \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Esize\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E of fruit by editing a gene called \u003C/em\u003E\u003Cem\u003Efruit weight)\u003C/em\u003E\u003Cem\u003E.\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-TqHNd0ahOoFIFaxoi2flKIwfgkh\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-AGi4doGruobxbIxFXbkluy64gkf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: size\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-NMXuduJfFoR8wAxCFoFlDXylgWh\"\u003EBằng c&aacute;ch chỉnh sửa một gen trong c&acirc;y c&agrave; chua, c&aacute;c nh&agrave; nghi&ecirc;n cứu đ&atilde; l&agrave;m cho c&agrave; chua c&oacute; k&iacute;ch thước gấp ba lần so với \u003Cu\u003E\u003Cstrong\u003Ek&iacute;ch thước\u003C/strong\u003E\u003C/u\u003E ban đầu. \u003Cem\u003E(By modifying one gene in a tomato plant, researchers made the tomato three times its original \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Esize\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-FVpYdoOIqo0olaxp5a9ldQjLgFh\"\u003E][12]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003Ctr\u003E\n\u003Ctd colspan=\"1\" rowspan=\"1\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OfZBd2NacoiNoJxbQRalGq2egpe\"\u003E{[\u003Cu\u003E\u003Cstrong\u003EBước 1\u003C/strong\u003E\u003C/u\u003E: Hiểu c&acirc;u hỏi v&agrave; Giải th&iacute;ch ngữ ph&aacute;p (nếu cần):\n\u003Cdiv data-page-id=\"Sn2ydGFMvohQRNxPCD8lyuZBgrg\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\"\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-X4EadMRnsosO21x85bRlUUSLgqc\"\u003EMột loại c&agrave; chua kh&ocirc;ng bị ảnh hưởng nặng nề bởi ____________, v&agrave; gi&agrave;u vitamin C, đ&atilde; được sản xuất bởi một nh&oacute;m nghi&ecirc;n cứu ở Trung Quốc.\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-JVg7dPl5HoPOSRxHe33lgJKtgZg\"\u003E[Lưu &yacute;: Loại c&agrave; chua n&agrave;y vừa kh&ocirc;ng bị ảnh hưởng bởi NOUN v&agrave; vừa gi&agrave;u vitamin C]\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-MJ2ld63XgopUGCxcX4EleT7Kg2d\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-GzdPdAYlroAkPSxP4Rql9b65g6d\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 2:\u003C/strong\u003E\u003C/u\u003E X&aacute;c định loại từ dựa tr&ecirc;n c&aacute;c dấu hiệu:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-LR74djwWworuAJxdVsZlQfZ8gWX\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003ELoại từ\u003C/strong\u003E: NOUN\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-MhuQdKgyQoBXD9xQlA1lDODvgUP\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EDấu hiệu\u003C/strong\u003E: by + NOUN \u003Cem\u003E(NOUN l&agrave;m Object của Preposition 'BY')\u003C/em\u003E\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-RdgeddPzBoB6mjxDNoElLX7kggE\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-DrZfdqSJQoOyp0xfxOold4BdgPb\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 3\u003C/strong\u003E\u003C/u\u003E: T&igrave;m c&aacute;c keywords được paraphrase trong b&agrave;i:\u003C/div\u003E\n\u003Cul class=\"list-bullet1\"\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-MrM4dYhfMotzysxeoOnlGLwLgQg\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Ehigher levels of vitamin C\u003C/strong\u003E ~ rich in vitamin C\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-Y5PIdpR5to7ZIAxuOnzlHivbgLc\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003Enot badly affected\u003C/strong\u003E ~ tolerant\u003C/div\u003E\n\u003C/li\u003E\n\u003Cli class=\"ace-line ace-line old-record-id-LymOdEasDoYGJ4xbQDAlx8VlgY6\" data-list=\"bullet\"\u003E\n\u003Cdiv\u003E\u003Cstrong\u003EChina \u003C/strong\u003E~ từ kh&oacute;a giữ nguy&ecirc;n\u003C/div\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-N0WEdiG6yoDm5OxXuu5l5Sx4gZx\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-IEsfdddd2ocSmDxxys7lHVoNgsf\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 4:\u003C/strong\u003E\u003C/u\u003E So s&aacute;nh v&agrave; đối chiếu:\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-SQ8rdMJeOohheWxcY1xlQ2cxgob\"\u003EB&agrave;i đọc chỉ r&otilde;: \"Họ cũng tạo ra một giống kh&aacute;c m&agrave; chịu được \u003Cu\u003E\u003Cstrong\u003Emuối\u003C/strong\u003E\u003C/u\u003E v&agrave; c&oacute; h&agrave;m lượng vitamin C cao hơn\" \u003Cem\u003E(\u003C/em\u003E\u003Cem\u003EThey also created another strain that is more \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Esalt\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E tolerant &ndash; and has higher levels of vitamin C.\u003C/em\u003E\u003Cem\u003E).\u003C/em\u003E\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-OGRIdtZndomwUAxkU7HlywLLgzg\"\u003E&nbsp;\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-Mk14dxN4VoMgFrxtG5llSbOpgUK\"\u003E\u003Cu\u003E\u003Cstrong\u003EBước 5:\u003C/strong\u003E\u003C/u\u003E Đ&aacute;p &aacute;n: disease\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-WgH3dlFDvoghhxxV8uolyKn7gSe\"\u003EMột loại c&agrave; chua kh&ocirc;ng bị ảnh hưởng nặng nề bởi \u003Cu\u003E\u003Cstrong\u003Emuối\u003C/strong\u003E\u003C/u\u003E, v&agrave; gi&agrave;u vitamin C, đ&atilde; được sản xuất bởi một nh&oacute;m nghi&ecirc;n cứu ở Trung Quốc. \u003Cem\u003E(A type of tomato which was not badly affected by \u003C/em\u003E\u003Cu\u003E\u003Cem\u003Esalt\u003C/em\u003E\u003C/u\u003E\u003Cem\u003E, and was rich in vitamin C, was produced by a team of researchers in China).\u003C/em\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"ace-line ace-line old-record-id-C6Iddlfk3oFYWBxOy1vl3KrFggc\"\u003E][13]}\u003C/div\u003E\n\u003C/td\u003E\n\u003C/tr\u003E\n\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E",
+            "description": "\u003Ch2\u003EQuestions 11 - 13:\u003C/h2\u003E",
+            "gap_fill_in_blank": "\u003Cul\u003E\n\u003Cli\u003EAn undesirable trait such as loss of {[flavour | flavor][11]} may be caused by a mutation in a tomato gene.\u003C/li\u003E\n\u003Cli\u003EBy modifying one gene in a tomato plant, researchers made the tomato three times its original {[size][12]}\u003C/li\u003E\n\u003Cli\u003EA type of tomato which was not badly affected by {[salt][13]} , and was rich in vitamin C, was produced by a team of researchers in China.\u003C/li\u003E\n\u003C/ul\u003E",
+            "single_choice_radio": null,
+            "selection": null,
+            "mutilple_choice": null,
+            "selection_option": null,
+            "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
+            "user_updated": "25f75627-cfcd-492d-add1-8f36b5e2aecb",
+            "date_created": "2024-01-08T13:32:20.025+07:00",
+            "date_updated": "2024-09-22T21:41:40.928+07:00",
             "instruction": null,
             "writing_logical_frame": null,
             "writing_graph_image": null,
@@ -674,9 +701,9 @@
     ],
     "tags": null,
     "user_created": "f5152ef4-6640-4d4f-b194-f2359c2dbba4",
-    "user_updated": "712504e1-7144-4853-85b3-6eedc87ba5de",
-    "date_created": "2024-01-05T15:10:59.236+07:00",
-    "date_updated": "2025-07-03T19:14:57.210092+07:00",
+    "user_updated": "6d49bbe7-57d8-442f-89af-cffd1e8a0c28",
+    "date_created": "2024-01-08T13:12:25.454+07:00",
+    "date_updated": "2025-07-12T21:28:33.60651+07:00",
     "quiz_part": null,
     "quiz_type": 3,
     "mock_test_id": null,
@@ -685,8 +712,8 @@
     "instruction": null,
     "question": null,
     "samples": null,
-    "vote_count": 39,
-    "total_submitted": 12304,
+    "vote_count": 3,
+    "total_submitted": 1841,
     "writing_task_type": null,
     "extra": {
       "user_attempt_count": null

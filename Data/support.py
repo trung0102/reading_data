@@ -86,7 +86,7 @@ def InsTFtoJson(data:str):
     soup = BeautifulSoup(decoded, 'html.parser')
 
     # Title 
-    title = soup.find('h2').get_text(strip=True)
+    title = soup.find('h2').get_text(strip=True) if soup.find('h2') else soup.find('h3').get_text(strip=True)
 
     # Description
     desc_paras = []
@@ -94,7 +94,7 @@ def InsTFtoJson(data:str):
     desc_key = {}
     # print("==== DECODED HTML ====")
     # print(decoded)
-    for p in soup.find_all('p'):
+    for p in soup.find_all(['p','div'], recursive=False):
         # print("=== RAW P ===  ", p)
         text = p.get_text(strip=True).strip()
         if p.find_parent(['td', 'table']):
