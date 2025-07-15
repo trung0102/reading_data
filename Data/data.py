@@ -17,34 +17,34 @@ def QuesFilter(questions:list, startques=1):
                 ret.append(QuestionFiltered)
             typ = support.MappingQType.get_typeinlist(question.get("question_type"))
             if typ not in listyp: listyp.append(typ)
-            content = None
             listques = []
             if question.get("question_type") == "FILL_BLANK":
                 is_gap_fill = True
                 instruction = {
-                    "title": support.LocText(question.get("description")),
-                    "description": support.LocText(question.get("title"))
+                    "title": support.LocDesc(question.get("description"))[0],
+                    "description": support.LocDesc(question.get("title"))[1]
                 }
-                content, title, listques = support.GapfilltoJson(question.get("gap_fill_in_blank"),question.get("explain"), question.get("title"))
+                ict, listques = support.GapfilltoJson(question.get("gap_fill_in_blank"),question.get("explain"), question.get("title"))
                 startques = int(listques[-1].get("id")) + 1
+                if ict.get("instruction"): instruction.update(ict["instruction"])
             elif question.get("question_type") == "MULTIPLE_CHOICE_MANY":
                 is_gap_fill = True
                 lques, startques = support.MulChoiceMany(question, startques)
                 listques = [lques]
-                instruction = support.InsTFtoJson(question.get("description"))
+                instruction = support.InsTFandYN(question.get("description"))
             else: 
                 is_gap_fill = False
-                instruction = support.InsTFtoJson(question.get("description"))
+                instruction = support.InsTFandYN(question.get("description"))
             QuestionFiltered = {
                 "displayType": support.MappingQType.get_displaytype(question.get("question_type")),
                 "questionType": support.MappingQType.get_questiontype(question.get("question_type")),
                 "instruction": instruction,
                 "questions":listques
             }
-            if content: 
-                QuestionFiltered["content"] = content
-                if title:    
-                    QuestionFiltered["title"] = title
+            if question.get("question_type") == "FILL_BLANK": 
+                QuestionFiltered["content"] = ict.get("content")
+                if ict.get("title"):    
+                    QuestionFiltered["title"] = ict.get("title")
             if is_gap_fill: 
                 continue
 
@@ -61,17 +61,18 @@ def QuesFilter(questions:list, startques=1):
         startques += 1
     if QuestionFiltered:  # Thêm QuestionFiltered cuối cùng
         ret.append(QuestionFiltered)
-    return ret, listyp
+    return ret, listyp, startques
 
 def filter_json(data):
     requiredData = data["data"]
     list_part = []
     listTypQues = []
     parts = []
+    startques = 1
     for part in requiredData.get("parts", []):
         list_part.append(part.get("passage"))
-        qParts, listyp = QuesFilter(part.get("questions",[]))
-        listTypQues += listyp
+        qParts, listyp, startques = QuesFilter(part.get("questions",[]), startques)
+        listTypQues += [typ for typ in listyp if typ not in listTypQues]
         PassageFiltered ={
             "passageIndex": part.get("passage"),
             "passageInstruction": part.get("instruction"),
@@ -83,7 +84,7 @@ def filter_json(data):
 
     readingTestFiltered = {
         "testType": f'Passage {list_part[0]}' if len(list_part) == 1 else "Full Reading Test",
-        "image": "abc.png",
+        "image": "readingtest.png",
         "testTitle": requiredData.get("title"),
         "questionTypeInTest": listTypQues,
         "parts": parts
@@ -96,16 +97,14 @@ with open("real_data/output.txt", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 # print(keyurl)
-
-
-# xử lí ảnh và gửi request vào api
-img_url = "https://cms.youpass.vn/assets/" + keyurl
-    
 api_url = "http://127.0.0.1:8000/api/admin-reading/reading-tests/"
-files = spimage.XuliImg(img_url)
-files["data"] = (None, json.dumps(data), "application/json")
 
-# print(files)
+if keyurl is None:
+    files = {"data": (None, json.dumps(data), "application/json")}
+else:
+    img_url = f"https://cms.youpass.vn/assets/{keyurl}"
+    files = spimage.XuliImg(img_url)
+    files["data"] = (None, json.dumps(data), "application/json")
 
 response = requests.post(api_url, files=files)
 

@@ -2,7 +2,7 @@ import re
 import html
 import json
 import string
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 
 def Content(data):
@@ -21,34 +21,6 @@ def mapIdDesciption(contents: str):
     matches = re.findall(r'\{\[(.+?)\]\[(\d+)\]\}', decoded,  flags=re.DOTALL)
     tuplemap = {id: content for content, id in matches}
     return tuplemap, decoded
-
-def LocText(data:str, flag=False):
-    soup = BeautifulSoup(data, 'html.parser')
-    if flag:
-        for h3 in soup.find_all('h3'):
-            h3.decompose()
-    text = ''
-    for element in soup.children:
-        if element.name == 'p':
-            element_text = element.get_text().strip()
-            if element_text:
-                text += element_text + '\n'
-        elif element.name == 'ul':
-            for ele in element.children:
-                element_text = ele.get_text().strip()
-                if element_text:
-                    text += "● " + element_text + '\n'
-        elif element.name:
-            element_text = element.get_text().strip()
-            if element_text:
-                text += element_text
-        else:
-            element_text = str(element).strip()
-            if element_text:
-                text += element_text
-    text = re.sub(r'\n\s*\n', '\n', text.strip())
-    text = re.sub(r'\n', '{(\n)}', text.strip())
-    return text
 
 def GapfilltoJson(gap_fill_in_blank: str, explain: str, strmaxword):
     number_map = {
@@ -73,70 +45,113 @@ def GapfilltoJson(gap_fill_in_blank: str, explain: str, strmaxword):
         maxword = number_map.get(number_word)
     correct_answer, decoded = mapIdDesciption(gap_fill_in_blank)
     explains,_ = mapIdDesciption(explain)  
-    soup = BeautifulSoup(decoded, 'html.parser')
-    title = soup.find('h3').get_text(strip=True) if soup.find('h3') else None
-    text = LocText(decoded, True)
+    title, text, desc_key = LocDesc(decoded)
     content = re.sub(r'\{\[(.+?)\]\[(\d+)\]\}', "{(input)}", text)
     questions = [{"id": idx,"maxWord": maxword, "correctAnswer": word, "explanation": explains.get(idx,"")} for idx, word in correct_answer.items()]
-
-    return content, title, questions
-
-def InsTFtoJson(data:str):
-    decoded = Decode(data)
-    soup = BeautifulSoup(decoded, 'html.parser')
-
-    # Title 
-    title = soup.find('h2').get_text(strip=True) if soup.find('h2') else soup.find('h3').get_text(strip=True)
-
-    # Description
-    desc_paras = []
-    # Key descriptions
-    desc_key = {}
-    # print("==== DECODED HTML ====")
-    # print(decoded)
-    for p in soup.find_all(['p','div'], recursive=False):
-        # print("=== RAW P ===  ", p)
-        text = p.get_text(strip=True).strip()
-        if p.find_parent(['td', 'table']):
-            # print("TABLE  ", p)
-            az_pattern = re.compile(r"^[A-Za-z]+$")
-            for strong_tag in p.find_all('strong'):
-                key_text = strong_tag.get_text(strip=True)
-                # key_text = re.sub(r'\s+', '', key_text)
-                # print(key_text)
-                if az_pattern.match(key_text):
-                    value = ""
-                    if strong_tag.next_sibling:
-                        value = strong_tag.next_sibling.strip()
-                    desc_key[key_text] = value
-            continue
-        if text and any(keyword in text.upper() for keyword in ["TRUE", "FALSE", "YES", "NO", "NOT GIVEN"]):
-            break  
-        desc_paras.append(p)
     
-    descriptions = ["<p>" + p.decode_contents()+ "</p>" for p in desc_paras if p]
+    ret = {"content": content}
+    if desc_key: ret["instruction"] = {"descriptionKey": desc_key}
+    if title: ret["title"] = title
+    return ret, questions
 
-    for p in soup.find_all('p'):
-        text = p.get_text(" ", strip=True)
-        if 'TRUE' in text:
-            desc_key["TRUE"] = text.split("TRUE")[1].strip()
-        elif 'FALSE' in text:
-            desc_key["FALSE"] = text.split("FALSE")[1].strip()
-        elif 'YES' in text:
-            desc_key["YES"] = text.split("YES")[1].strip()
-        elif 'NOT GIVEN' in text:
-            desc_key["NOT GIVEN"] = text.split("NOT GIVEN")[1].strip()
-        elif 'NO' in text:
-            desc_key["NO"] = text.split("NO")[1].strip() if "NO" in text else text
+def TFandYN(text: str):
+    desc_key = {}
+    for keyword in ["TRUE", "FALSE", "YES", "NOT GIVEN", "NOTGIVEN", "NO"]:
+        if keyword in text and len(text.split(keyword)) > 1:
+            key_word = "NOT GIVEN" if keyword == "NOTGIVEN" else keyword
+            desc_key[key_word] = text.split(keyword)[1].strip()
+            break
+    return bool(desc_key), desc_key
 
-    return {
+def LocDesc(data):
+    soup = BeautifulSoup(data, 'html.parser') if isinstance(data, str) else data
+    text = []
+    title = "Question :"
+    flag = False
+    desckey = {}
+
+    def process_element(element, depth=0):
+        nonlocal title, text, flag, desckey
+        if isinstance(element, NavigableString):
+            element_text = str(element).strip()
+            if element_text:
+                if flag and text:
+                    text[-1] += ' ' + element_text
+                    flag = False
+                else:
+                    text.append(element_text)
+            return
+        if element.name in ["h2", "h3"]:
+            title = element.get_text(strip=True)
+        elif element.name in ["div", "p"]:
+            if text: text[-1] += '\n'
+            flag = False
+            fla, descKey = TFandYN(element.get_text(strip=True))
+            if fla:
+                desckey.update(descKey)
+            for child in element.children:
+                process_element(child, depth + 1)
+        elif element.name == "ul":
+            for child in element.children:
+                if child.name == "li":
+                    element_text = child.get_text().strip()
+                    if element_text:
+                        text.append("● " + element_text)
+        elif element.name == "br":
+            text.append("\n")
+        elif element.name == "table":
+            for p in soup.find_all(['p','div']):
+                if p.find_parent(['td', 'table']):
+                    az_pattern = re.compile(r"^[A-Za-z]+\.?$")
+                    for strong_tag in p.find_all('strong'):
+                        key_text = strong_tag.get_text(strip=True)
+                        if az_pattern.match(key_text):
+                            value = ""
+                            if strong_tag.next_sibling:
+                                value = strong_tag.next_sibling.strip()
+                            desckey[key_text] = value
+            if desckey: return
+            for p in soup.find_all(['td']):
+                if p.find_parent('table'):
+                    az_pattern = re.compile(r"^[A-Za-z]+\.?$")
+                    for strong_tag in p.find_all('strong'):
+                        key_text = strong_tag.get_text(strip=True)
+                        if az_pattern.match(key_text):
+                            value = ""
+                            if strong_tag.next_sibling:
+                                value = strong_tag.next_sibling.strip()
+                            desckey[key_text] = value
+        elif element.name:
+            element_text = element.get_text().strip()
+            if element_text:
+                if text:
+                    text[-1] += ' ' + element_text
+                    flag = True
+                else:
+                    text.append(element_text)
+
+    for element in soup.children:
+        process_element(element)
+
+    text = "\n".join(t for t in text if t).strip()
+    text = re.sub(r'\n\s*\n', '\n', text)
+    text = re.sub(r'\n', '{(\n)}', text)
+    text = re.sub(r' \.', '.', text)
+    text = re.sub(r' \,', ',', text)
+    if "TRUE if" in text:
+        text = text.split("{(\n)} TRUE if")[0].strip()
+    elif "YES if" in text:
+        text = text.split("{(\n)} YES if")[0].strip()
+    return title, text, desckey
+
+def InsTFandYN(data: str):
+    title, descriptions, desc_key = LocDesc(data)
+    ret  = {
         "title": title,
-        "description": LocText("".join(descriptions)),
-        "descriptionKey": desc_key
-    } if desc_key else {
-        "title": title,
-        "description": LocText("".join(descriptions))
-    } 
+        "description": descriptions,
+    }
+    if desc_key: ret["descriptionKey"] = desc_key
+    return ret  
 
 def MulChoiceMany(data: str, startques):
     list_opt = []
@@ -168,21 +183,11 @@ def MulChoiceOne(data: str):
         list_opt.append(Decode(option["text"]))
         list_correct.append(option["correct"])
     opts = [f"{label}. {opt.lstrip()}" for label, opt in zip(string.ascii_uppercase, list_opt)]
-    lcorrect = [opt for opt,f in zip(opts,list_correct) if f]
+    lcorrect = [opt for opt,f in zip(string.ascii_uppercase,list_correct) if f]
     return {
         "options": opts,
         "correctAnswer": lcorrect[0],
     }
-
-# with open("real_data/explain.txt", encoding="utf-8") as f:
-#     explain = f.read()
-
-# with open("real_data/gapfillinblank.txt", encoding="utf-8") as f:
-#     gap_fill_in_blank = f.read()
-    
-# jsonstr = GapfilltoJson(gap_fill_in_blank,explain)
-# print(json.dumps(jsonstr, ensure_ascii=False, indent=2))
-
 
 class MappingQType:
     mapping = {
@@ -193,7 +198,8 @@ class MappingQType:
         "MULTIPLE_CHOICE_ONE": ("Multiple Choice (One Answer)", "MULTIPLE_CHOICE_ONE", "SINGLE_SELECTION"),
         "YES_NO": ("Yes - No - Not Given", "YES_NO_NOT_GIVEN", "SINGLE_SELECTION"),
         "MATCHING_NAMES": ("Matching Names", "MATCHING_NAMES", "SINGLE_SELECTION"),
-        "TRUE_FALSE": ("True - False - Not Given", "TRUE_FALSE_NOT_GIVEN", "SINGLE_SELECTION")
+        "TRUE_FALSE": ("True - False - Not Given", "TRUE_FALSE_NOT_GIVEN", "SINGLE_SELECTION"),
+        "OTHERS": ("Other Types", "MATCHING_NAMES", "SINGLE_SELECTION"),
     }
 
     @classmethod
@@ -208,3 +214,17 @@ class MappingQType:
     @classmethod
     def get_displaytype(cls, key):
         return cls.mapping.get(key)[2]
+    
+
+# with open("real_data/apidata.txt", encoding="utf-8") as f:
+#     desc = f.read()
+   
+# title, des, deskey = LocDesc(desc)
+# data = {
+#     "title": title,
+#     "description": des,
+#     "descriptionKey": deskey
+# }
+
+# with open("real_data/output.txt", "w", encoding="utf-8") as f:
+#     json.dump(data, f, ensure_ascii=False, indent=2)
