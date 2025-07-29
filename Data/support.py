@@ -6,11 +6,39 @@ from bs4 import BeautifulSoup, NavigableString
 
 
 def Content(data):
+    soup = BeautifulSoup(data, 'html.parser')
+    passageinstruction = []
+    flag = False
+    title = ""
+    def process_element(element, depth=0):
+        nonlocal passageinstruction, flag, title
+        if element.name in ["h2", "h3"]:
+            if flag:
+                element_text = element.get_text().strip()
+                if element_text:
+                    title = element_text
+            flag = not flag
+            element.decompose()
+        elif element.name in ["div", "p"]:
+            if flag:
+                element_text = element.get_text().strip()
+                if element_text:
+                    passageinstruction.append(element_text)
+                    element.decompose()
+            for child in element.children:
+                process_element(child, depth + 1)
+
+    for element in soup.children:
+        process_element(element)
+    data = str(soup)
     data = re.sub(r'\{\[', ' ', data, flags=re.IGNORECASE)
     data = re.sub(r'\]\[(.+?)\]\}', ' ', data, flags=re.IGNORECASE)
-    return data
+    data = re.sub(r'\n\s*\n', '\n', data)
+    return data, passageinstruction, title
 
 def Decode(data):
+    if not isinstance(data, str):
+        return ""
     data = re.sub(r'YouPass', 'Youready', data, flags=re.IGNORECASE)
     return html.unescape(data)
 
@@ -56,17 +84,19 @@ def GapfilltoJson(gap_fill_in_blank: str, explain: str, strmaxword):
 
 def TFandYN(text: str):
     desc_key = {}
-    for keyword in ["TRUE", "FALSE", "YES", "NOT GIVEN", "NOTGIVEN", "NO"]:
-        if keyword in text and len(text.split(keyword)) > 1:
+    for keyword in ["TRUE", "FALSE", "YES", "NOT GIVEN", "NOTGIVEN", "NO"] + [f"{ch}." for ch in string.ascii_uppercase]:
+        if keyword in text and len(text.split(keyword)) > 1 and f"-{keyword}" not in text and f"- {keyword}" not in text:
             key_word = "NOT GIVEN" if keyword == "NOTGIVEN" else keyword
-            desc_key[key_word] = text.split(keyword)[1].strip()
+            if text.split(keyword)[1].strip():
+                desc_key[key_word] = text.split(keyword)[1].strip()
             break
     return bool(desc_key), desc_key
 
 def LocDesc(data):
+    data = LocDesc_br(data)
     soup = BeautifulSoup(data, 'html.parser') if isinstance(data, str) else data
     text = []
-    title = "Question :"
+    title = ""
     flag = False
     desckey = {}
 
@@ -100,17 +130,6 @@ def LocDesc(data):
         elif element.name == "br":
             text.append("\n")
         elif element.name == "table":
-            for p in soup.find_all(['p','div']):
-                if p.find_parent(['td', 'table']):
-                    az_pattern = re.compile(r"^[A-Za-z]+\.?$")
-                    for strong_tag in p.find_all('strong'):
-                        key_text = strong_tag.get_text(strip=True)
-                        if az_pattern.match(key_text):
-                            value = ""
-                            if strong_tag.next_sibling:
-                                value = strong_tag.next_sibling.strip()
-                            desckey[key_text] = value
-            if desckey: return
             for p in soup.find_all(['td']):
                 if p.find_parent('table'):
                     az_pattern = re.compile(r"^[A-Za-z]+\.?$")
@@ -121,7 +140,19 @@ def LocDesc(data):
                             if strong_tag.next_sibling:
                                 value = strong_tag.next_sibling.strip()
                             desckey[key_text] = value
-        elif element.name:
+
+            for p in soup.find_all(['p','div']):
+                if p.find_parent(['td', 'table']):
+                    az_pattern = re.compile(r"^[A-Za-z]+\.?$")
+                    for strong_tag in p.find_all('strong'):
+                        key_text = strong_tag.get_text(strip=True)
+                        if az_pattern.match(key_text):
+                            value = ""
+                            if strong_tag.next_sibling:
+                                value = strong_tag.next_sibling.strip()
+                            desckey[key_text] = value
+
+        elif element.name in ["strong","em", "span"]:
             element_text = element.get_text().strip()
             if element_text:
                 if text:
@@ -129,6 +160,10 @@ def LocDesc(data):
                     flag = True
                 else:
                     text.append(element_text)
+        elif element.name:
+            element_text = element.get_text().strip()
+            if element_text:
+                text.append(element_text)
 
     for element in soup.children:
         process_element(element)
@@ -138,6 +173,8 @@ def LocDesc(data):
     text = re.sub(r'\n', '{(\n)}', text)
     text = re.sub(r' \.', '.', text)
     text = re.sub(r' \,', ',', text)
+    text = re.sub(r"\{\(\n\)\}\s*(TRUE|YES)[\s\S]*?NOT GIVEN[\s\S]*", "", text).strip()
+    text = re.sub(r"\{\(\n\)\}\s*List of[\s\S]*", "", text).strip()
     if "TRUE if" in text:
         text = text.split("{(\n)} TRUE if")[0].strip()
     elif "YES if" in text:
@@ -189,6 +226,30 @@ def MulChoiceOne(data: str):
         "correctAnswer": lcorrect[0],
     }
 
+def LocDesc_br(data):
+    soup = BeautifulSoup(data, 'html.parser') if isinstance(data, str) else data
+    for tag in soup.find_all(["p", "div", "span"]):
+        if tag.find("br"):
+            texts = []
+            for content in tag.descendants:
+                if content.name == "br":
+                    texts.append("\n")
+                elif isinstance(content, NavigableString):
+                    texts.append(str(content))
+            full_text = "".join(texts)
+            lines = [line.strip() for line in full_text.split("\n") if line.strip()]
+            new_ps = []
+            for line in lines:
+                p = soup.new_tag("p")
+                p.string = line
+                new_ps.append(p)
+            for new_p in reversed(new_ps):
+                tag.insert_after(new_p)
+            tag.decompose()
+    
+    return soup
+
+
 class MappingQType:
     mapping = {
         "MATCHING_HEADING": ("Matching Heading", "MATCHING_HEADING", "MATCHING"),
@@ -200,6 +261,7 @@ class MappingQType:
         "MATCHING_NAMES": ("Matching Names", "MATCHING_NAMES", "SINGLE_SELECTION"),
         "TRUE_FALSE": ("True - False - Not Given", "TRUE_FALSE_NOT_GIVEN", "SINGLE_SELECTION"),
         "OTHERS": ("Other Types", "MATCHING_NAMES", "SINGLE_SELECTION"),
+        "MAP_DIAGRAM_LABEL": ("Map Diagram Label", "FILL_BLANK", "GAP_FILLING")
     }
 
     @classmethod
@@ -209,7 +271,7 @@ class MappingQType:
 
     @classmethod
     def get_questiontype(cls, key):
-        return cls.mapping.get(key)[1]
+        return cls.mapping.get(key)[0]
 
     @classmethod
     def get_displaytype(cls, key):
@@ -218,13 +280,16 @@ class MappingQType:
 
 # with open("real_data/apidata.txt", encoding="utf-8") as f:
 #     desc = f.read()
-   
+
+# desc = LocDesc_br(desc)
+
 # title, des, deskey = LocDesc(desc)
 # data = {
 #     "title": title,
 #     "description": des,
 #     "descriptionKey": deskey
 # }
+    
 
 # with open("real_data/output.txt", "w", encoding="utf-8") as f:
 #     json.dump(data, f, ensure_ascii=False, indent=2)

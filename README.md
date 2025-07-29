@@ -9,17 +9,13 @@ xem decode data:
 run code:
 - cd Data
 - dán dữ liệu lấy từ api vào real_data/apidata.txt
+- với mỗi Passage: dán url từ API_YouPass.docx vào sourcedata.txt để lọc source
 - python data.py
 - xem json ở output.txt
 
-tạm thời comment:
-- upload ảnh ở spimage.py
-- request đến api post http://127.0.0.1:8000/api/admin-reading/reading-tests/
+lưu ý:
+- với những bài bị lỗi không upload được thì tạm thời bỏ qua do cần phải sửa 1 xíu ở apidata.txt
+- với bài Map Diagram Label thì upload ảnh từ "gap_fill_in_blank" ở api trước rồi đổi url ở data.py line 37 
 
-những phần cần làm:
-- sửa lại phần upload image
-- lọc dữ liệu MATCHING_NAMES, Matching heading
-- MULTICHOICE
-- MAP DIAGRAM
-
-pass2 651  663
+pass1: đến id 3487
+pass2: đến id 1298
